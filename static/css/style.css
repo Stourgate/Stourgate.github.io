@@ -6,7 +6,8 @@ body {
   padding: 0;
 }
 .wrapper {
-  max-width: 760px;
+  width: 90%;
+  max-width: 1200px;
   margin: 0 auto;
   background-color: #C0C0C0;
   border: 4px ridge #808080;
@@ -120,8 +121,13 @@ h2.headline {
 }
 .article-photo {
   float: right;
-  width: 140px;
+  width: 320px;
+  max-width: 45%;
   margin: 0 0 6px 10px;
+}
+.article-photo img {
+  width: 100%;
+  display: block;
 }
 .counter {
   display: inline-block;
@@ -173,5 +179,6 @@ hr.stars:before {
   font-size: 11px;
   color: #808080;
   font-style: italic;
-  margin-top: -4px;
+  margin: 2px 0 0;
+  text-align: left;
 }
