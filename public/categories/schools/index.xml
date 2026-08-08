@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schools on The Stourgate Bugle</title>
+    <link>http://localhost:1313/categories/schools/</link>
+    <description>Recent content in Schools on The Stourgate Bugle</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 08 Aug 2026 09:10:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/schools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grammar School Reports Record Exam Results</title>
+      <link>http://localhost:1313/posts/exam-results/</link>
+      <pubDate>Sat, 08 Aug 2026 09:10:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/exam-results/</guid>
+      <description>&lt;p&gt;Stourgate Grammar School has reported its best exam results in a decade, though the method of comparison has been disputed by a neighbouring school.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

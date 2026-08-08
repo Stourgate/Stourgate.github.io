@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Letters on The Stourgate Bugle</title>
+    <link>http://localhost:1313/categories/letters/</link>
+    <description>Recent content in Letters on The Stourgate Bugle</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 08 Aug 2026 09:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/letters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Letters To The Editor</title>
+      <link>http://localhost:1313/posts/letters-1/</link>
+      <pubDate>Sat, 08 Aug 2026 09:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/letters-1/</guid>
+      <description>&lt;p&gt;Readers respond to last week&amp;rsquo;s coverage of the seafront car park consultation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+{{ define "main" }}
+<h2 class="headline">{{ .Title }}</h2>
+{{ range .Pages }}
+  {{ if .Params.image }}
+    <img class="article-photo" src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
+  {{ else }}
+    <div class="article-photo photo-placeholder">[ PHOTO ]</div>
+  {{ end }}
+  <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
+  <p>{{ .Summary }}</p>
+  <hr class="stars">
+{{ end }}
+{{ end }}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Stourgate Bugle</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on The Stourgate Bugle</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 08 Aug 2026 09:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Letters To The Editor</title>
+      <link>http://localhost:1313/posts/letters-1/</link>
+      <pubDate>Sat, 08 Aug 2026 09:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/letters-1/</guid>
+      <description>&lt;p&gt;Readers respond to last week&amp;rsquo;s coverage of the seafront car park consultation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stourgate In Brief</title>
+      <link>http://localhost:1313/posts/in-brief-1/</link>
+      <pubDate>Sat, 08 Aug 2026 09:25:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/in-brief-1/</guid>
+      <description>&lt;p&gt;Bin collection delayed by one day due to bank holiday. Market&amp;rsquo;s Tuesday pitch count rises to nineteen stalls. Dog seen on seafront for third day running, no owner identified.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hospital Trust Addresses Concerns Over X-Ray Service</title>
+      <link>http://localhost:1313/posts/xray-service/</link>
+      <pubDate>Sat, 08 Aug 2026 09:20:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/xray-service/</guid>
+      <description>&lt;p&gt;Stourgate Community Hospital has responded to concerns raised by residents over the ongoing suspension of its x-ray service.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Market Traders Raise Concerns Over Pitch Fee Increase</title>
+      <link>http://localhost:1313/posts/pitch-fees/</link>
+      <pubDate>Sat, 08 Aug 2026 09:15:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/pitch-fees/</guid>
+      <description>&lt;p&gt;Traders at Stourgate&amp;rsquo;s Tuesday and Saturday market have raised objections to a proposed increase in pitch fees.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Grammar School Reports Record Exam Results</title>
+      <link>http://localhost:1313/posts/exam-results/</link>
+      <pubDate>Sat, 08 Aug 2026 09:10:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/exam-results/</guid>
+      <description>&lt;p&gt;Stourgate Grammar School has reported its best exam results in a decade, though the method of comparison has been disputed by a neighbouring school.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stourgate Town Announce New Manager</title>
+      <link>http://localhost:1313/posts/new-manager/</link>
+      <pubDate>Sat, 08 Aug 2026 09:05:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/new-manager/</guid>
+      <description>&lt;p&gt;Stourgate Town have confirmed the appointment of a new first-team manager, ending weeks of speculation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Council Confirms Bypass Proposal Remains Under Review</title>
+      <link>http://localhost:1313/posts/bypass-review/</link>
+      <pubDate>Sat, 08 Aug 2026 09:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/bypass-review/</guid>
+      <description>&lt;p&gt;Stourgate Town Council voted 6-1 on Tuesday to continue reviewing the long-proposed bypass, marking the twentieth consecutive year the item has appeared on the agenda without further action.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Possible Alien Craft Reported Near Proposed Bypass Site</title>
+      <link>http://localhost:1313/posts/alien-crash/</link>
+      <pubDate>Sat, 08 Aug 2026 08:55:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/alien-crash/</guid>
+      <description>&lt;p&gt;Residents near the site of the long-proposed bypass have reported an unidentified object in a field off the ring road on Wednesday evening, though the council says it has no record of any incident.&lt;/p&gt;&#xA;&lt;p&gt;Barry Fenn, who was first on the scene, described a &amp;ldquo;definite dent&amp;rdquo; in the grass and &amp;ldquo;a smell like burnt toast,&amp;rdquo; but admitted he had not stayed to investigate further. Deirdre Holt&amp;rsquo;s Facebook group logged 340 messages on the subject within the hour, most concerning whether the object would affect house prices.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
