@@ -169,3 +169,9 @@ hr.stars:before {
   content: "★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★";
   color: #FFFF00;
 }
+.caption {
+  font-size: 11px;
+  color: #808080;
+  font-style: italic;
+  margin-top: -4px;
+}

@@ -3,7 +3,10 @@ title: "Possible Alien Craft Reported Near Proposed Bypass Site"
 date: 2026-08-08T08:55:00+01:00
 draft: false
 categories: ["Council"]
+image: "alien_crash_bypass_compressed.jpg"
 ---
+![Artist impression of how the crash might have appeared if it were different.](alien_crash_bypass_compressed.jpg)
+<div class="caption">Artist impression of how the crash might have appeared if it were different.</div>
 Residents near the site of the long-proposed bypass have reported an unidentified object in a field off the ring road on Wednesday evening, though the council says it has no record of any incident.
 
 Barry Fenn, who was first on the scene, described a "definite dent" in the grass and "a smell like burnt toast," but admitted he had not stayed to investigate further. Deirdre Holt's Facebook group logged 340 messages on the subject within the hour, most concerning whether the object would affect house prices.
