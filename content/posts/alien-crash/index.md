@@ -14,4 +14,6 @@ The possible alien spaceship crash would only add to this estimate, according to
 
 Barry Fenn, who was first on the scene, described a "definite dent" in the grass and "a smell like burnt toast," and he thought he might have glimpsed an alien that looked a bit like ET.
 
-A council spokesperson said the matter "falls outside the scope of the current bypass review". The Stourgate Bugle has set up a UFO hotline where you can report any further alien sightings. Any confirmed sightings win the caller £10 (real alien with big eyes and stretched head sort of thing, no payment for killer viruses etc) .
+A council spokesperson said the matter "falls outside the scope of the current bypass review". 
+
+The Stourgate Bugle has set up a UFO hotline where you can report any further alien sightings. Any confirmed sightings win the caller £10 (real alien with big eyes and stretched head sort of thing, no payment for killer viruses etc) .
