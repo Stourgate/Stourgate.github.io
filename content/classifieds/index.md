@@ -22,7 +22,7 @@ Rocket powered car. Ford Escort XR3i with 6 large firework rockets either side. 
 
 Complete works of William Shakespeare in solid gold (Readers Digest edition). £8M. Will take set of chisels in part exchange. West Ronton. (Box 1009)
 
-Home made pickled cat. Nicer than you'd think. £7 post jar. Also badger available. Stourgate. (Box 1010)
+Home made pickled cat. Nicer than you'd think. £7 per jar. Also badger available. Stourgate. (Box 1010)
 
 Large round thing. We don't know what it is but it's been in the garage for years. Good working order depending on what it's supposed to do. Has a flappy bit inside. £1.87. Stourgate. (Box 1011)
 
@@ -100,15 +100,15 @@ Couple seeks closed minded goat. West Ronton. (Box 1505)
 
 **FRILLY DECORATIVE EDGES FOR BEDS**
 
-**DECORATIVE EDGE WAREHOUSE** — Over 4,000 sq ft of frill under one roof. Everything must go. Free parking, kids funfair. (Box 1601)
+**DECORATIVE EDGE WAREHOUSE** - Over 4,000 sq ft of frill under one roof. Everything must go. Free parking, kids funfair. (Box 1601)
 
-**DECORATIVE EDGE UNIVERSE** — If it's got a ruffle, we've got it. Now stocking the autumn range of box-pleat valances in eleven shades of cream. (Box 1602)
+**DECORATIVE EDGE UNIVERSE** - If it's got a ruffle, we've got it. Now stocking the autumn range of box-pleat valances in eleven shades of cream. (Box 1602)
 
-**DECORATIVE EDGE MULTIVERSE** — Somewhere out there is the frill of your dreams. We stock it, in every dimension, in stock now at our unit behind the retail park. (Box 1603)
+**DECORATIVE EDGE MULTIVERSE** - Somewhere out there is the frill of your dreams. We stock it, in every dimension, in stock now at our unit behind the retail park. (Box 1603)
 
-**VALANCE NATION** — Home of the double-box-pleat since 1994. Ask about our loyalty card. (Box 1604)
+**VALANCE NATION** - Home of the double-box-pleat since 1994. Ask about our loyalty card. (Box 1604)
 
-**THE FRILL OUTLET** — Trade prices for the public, allegedly. No returns on bespoke gathers. (Box 1605)
+**THE FRILL OUTLET** - Trade prices for the public, allegedly. No returns on bespoke gathers. (Box 1605)
 
 ---
 
@@ -118,7 +118,7 @@ Private collector seeks souls, any condition, will collect same evening. Serious
 
 WANTED: assorted body parts for ongoing research. Collection arranged at your convenience. No questions asked, no receipts issued. (Box 1702)
 
-Ghost hunting services, all hours — Ed Davies, fully insured*, no spirit too stubborn, discretion guaranteed. *not actually insured. (Box 1703)
+Ghost hunting services, all hours - Ed Davies, fully insured*, no spirit too stubborn, discretion guaranteed. *not actually insured. (Box 1703)
 
 Tarot readings, Tuesdays only, second Tuesday of the month excepted due to bin collection. (Box 1704)
 
