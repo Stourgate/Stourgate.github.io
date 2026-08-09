@@ -108,7 +108,7 @@ Couple seeks closed minded goat. West Ronton. (Box 1505)
 
 **VALANCE NATION** - Home of the double-box-pleat since 1994. Ask about our loyalty card. (Box 1604)
 
-**THE FRILL OUTLET** - Trade prices for the public, allegedly. No returns on bespoke gathers. (Box 1605)
+**THE FRILL OUTLET** - Trade prices for the public. No returns on bespoke gathers. (Box 1605)
 
 ---
 
