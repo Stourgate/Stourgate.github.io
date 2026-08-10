@@ -51,3 +51,21 @@ Prize: luxury cruise for 18 people on the River Stour, alight Grove Ferry, disem
 ---
 
 *Answers in next week's edition. The Editor's decision is final.
+
+---
+
+**LAST WEEK'S ANSWERS**
+
+1. GUESS THE WORD - kayaak (canoe is not ok).
+
+2. CRYPTIC CROSSWORD - Beleaguered Trouser Trumpet.
+
+3. GENERAL KNOWLEDGE - all the answers were 7.
+
+4. BRAIN TEASERS - 1. olive oil. 2. Cheeeeep. 3. Yes 4. You looking at me? 5. Come one then if you think you're hard enough.
+
+5. ARTISTIC BATTLESHIPS - winner was Mrs Olive Trabezant who depicted A4 in yellow.
+
+6. WHERE IN THE WORLD? - Timmy was in Tabor, Czech Republic at Mighty Sounds Punk and Ska Festival watching Fidlar.
+
+*Answers withheld pending an internal review. The Editor apologises for any confusion caused by last week's answers, this week's answers, or answers in general.*
