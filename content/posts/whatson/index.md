@@ -2,7 +2,7 @@
 title: "Whats On"
 date: 2026-08-08T09:20:00+01:00
 draft: false
-categories: ["Whats On"]
+categories: ["whatson"]
 image: "photo.jpg"
 caption: "What's on, not hats on, FFS."
 ---
