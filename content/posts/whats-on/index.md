@@ -26,4 +26,14 @@ Burn a Book Jamboree - bring a book to burn or help us to burn our collection of
 
 Kids Torture Enthusiasts. Stourbridge Nursery, 3pm every day except Christmas. Get your kids into torture at an early age. We have our own thumbscrews and a rack. Free.
 
+Build your own spoon. Eighteen week course at Dunton Craft Village. Wednesdays at 6pm, start December 25th. £0.12p per week.
+
+Build your own mausoleum. Three week course at Dunton Craft Village. Wednesdays at 5pm, start July 4th. £11.12p per week.
+
+Build your own working air craft carrier. 90,000 week course at Dunton Craft Village. Wednesdays at 4pm, start October 8th. £100,000.12p per week. Discount for ex armed forces.
+
+Carpet Art show. Everyday from 9 to 5 at Stourgate Carpet World. See local artists carpets including Axminsters. The art can be purchased and fitted by our experienced art fitters. 
+
+
+
 
