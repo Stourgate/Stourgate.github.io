@@ -1,12 +1,12 @@
 {{ define "main" }}
 <h2 class="headline">{{ .Title }}</h2>
 {{ if .Params.image }}
-<figure class="article-photo">
+<figure class="article-photo-large">
   <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
   {{ if .Params.caption }}<figcaption class="caption">{{ .Params.caption }}</figcaption>{{ end }}
 </figure>
 {{ else }}
-  <div class="article-photo photo-placeholder">[ PHOTO ]</div>
+  <div class="article-photo-large photo-placeholder">[ PHOTO ]</div>
 {{ end }}
 <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
 {{ .Content }}

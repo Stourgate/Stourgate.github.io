@@ -123,10 +123,24 @@ h2.headline {
   float: right;
   width: 320px;
   max-width: 45%;
+  height: 180px;
   margin: 0 0 6px 10px;
 }
 .article-photo img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.article-photo-large {
+  float: none;
+  width: 100%;
+  max-width: 100%;
+  margin: 10px 0;
+}
+.article-photo-large img {
+  width: 100%;
+  height: auto;
   display: block;
 }
 .counter {
