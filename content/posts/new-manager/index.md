@@ -4,7 +4,7 @@ date: 2026-08-08T09:05:00+01:00
 draft: false
 categories: ["Sport"]
 image: "photo.jpg"
-caption: "Ray Hutchings, welcome to The Warren."
+caption: "Ray Hutchings, serial failure, welcome to The Warren."
 ---
 Stourgate Town have confirmed the appointment of a new first-team manager, ending weeks of speculation. Ray Hutchings joins us from fellow Kent Large Moulded Fittings Division 2 side Blackhampton Terriers. Ray has managed for over ten years skilfully guiding teams between divisions in eight of those ten years. He hopes to repeat the promotion he gained with Blackhampton Wanderers in 2022. 
 
