@@ -125,6 +125,7 @@ h2.headline {
   max-width: 45%;
   height: 180px;
   margin: 0 0 6px 10px;
+  overflow: hidden;
 }
 .article-photo img {
   width: 100%;
