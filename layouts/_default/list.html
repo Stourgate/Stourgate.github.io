@@ -2,7 +2,9 @@
 <h2 class="headline">{{ .Title }}</h2>
 {{ range .Pages }}
   {{ if .Params.image }}
-    <img class="article-photo" src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
+    <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
+      <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
+    </a>
   {{ else }}
     <div class="article-photo photo-placeholder">[ PHOTO ]</div>
   {{ end }}
