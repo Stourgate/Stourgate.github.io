@@ -73,12 +73,13 @@ marquee {
   padding: 10px;
   box-sizing: border-box;
   overflow-wrap: break-word;
+  font-size: 18px;
 }
 h2.headline {
   color: #000080;
   font-family: "Times New Roman", serif;
   border-bottom: 2px dashed #FF0000;
-  font-size: 20px;
+  font-size: 25px;
 }
 .new-gif {
   color: #FF0000;
@@ -90,7 +91,7 @@ h2.headline {
 }
 .byline {
   color: #808080;
-  font-size: 11px;
+  font-size: 14px;
   font-style: italic;
 }
 .sidebar {
@@ -110,19 +111,14 @@ h2.headline {
   margin: 6px 0;
 }
 .hero-photo {
-  background-color: #808080;
+  background-color: #C0C0C0;
   border: 4px ridge #808080;
-  height: 200px;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  color: #000000;
+  font-family: "Courier New", monospace;
+  font-size: 13px;
+  text-align: center;
+  padding: 40px 4px;
   margin-top: 8px;
-}
-.hero-photo img {
-  width: 100%;
-  height: auto;
-  display: block;
 }
 .article-item {
   display: flex;
@@ -223,7 +219,7 @@ hr.stars:before {
   color: #FFFF00;
 }
 .caption {
-  font-size: 11px;
+  font-size: 14px;
   color: #808080;
   font-style: italic;
   margin: 2px 0 0;
