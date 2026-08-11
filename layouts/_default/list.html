@@ -3,8 +3,9 @@
 {{ range .Pages }}
 <div class="article-item">
   {{ if .Params.image }}
-    <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
+    <a class="article-photo" href="{{ .RelPermalink }}">
       <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
+      {{ if .Params.caption }}<span class="hover-caption">{{ .Params.caption }}</span>{{ end }}
     </a>
   {{ else }}
     <div class="article-photo photo-placeholder">[ PHOTO ]</div>
