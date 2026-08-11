@@ -111,14 +111,19 @@ h2.headline {
   margin: 6px 0;
 }
 .hero-photo {
-  background-color: #C0C0C0;
+  background-color: #808080;
   border: 4px ridge #808080;
-  color: #000000;
-  font-family: "Courier New", monospace;
-  font-size: 13px;
-  text-align: center;
-  padding: 40px 4px;
+  height: 280px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin-top: 8px;
+}
+.hero-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 .article-item {
   display: flex;
