@@ -119,12 +119,17 @@ h2.headline {
   padding: 40px 4px;
   margin-top: 8px;
 }
+.article-item {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+  align-items: flex-start;
+}
 .article-photo {
-  float: right;
+  flex-shrink: 0;
   width: 320px;
   max-width: 45%;
   height: 180px;
-  margin: 0 0 6px 10px;
   overflow: hidden;
 }
 .article-photo img {
@@ -132,6 +137,10 @@ h2.headline {
   height: 100%;
   object-fit: cover;
   display: block;
+}
+.article-text {
+  flex: 1;
+  min-width: 0;
 }
 .article-photo-large {
   float: none;

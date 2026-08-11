@@ -1,6 +1,7 @@
 {{ define "main" }}
 <h2 class="headline">{{ .Title }}</h2>
 {{ range .Pages }}
+<div class="article-item">
   {{ if .Params.image }}
     <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
       <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
@@ -8,9 +9,12 @@
   {{ else }}
     <div class="article-photo photo-placeholder">[ PHOTO ]</div>
   {{ end }}
-  <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
-  <p>{{ .Summary }}</p>
-  <hr class="stars">
+  <div class="article-text">
+    <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
+    <p>{{ .Summary }}</p>
+  </div>
+</div>
+<hr class="stars">
 {{ end }}
 {{ end }}
