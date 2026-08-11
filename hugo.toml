@@ -1,3 +1,7 @@
 baseURL = "https://Stourgate.github.io/"
 languageCode = "en-gb"
 title = "The Stourgate Bugle"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
