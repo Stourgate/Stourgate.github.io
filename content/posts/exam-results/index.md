@@ -24,7 +24,7 @@ With the local paper still running the story and governors asking questions, the
 
 The two made up, the "cancelled" signs came down from the noticeboard, and the exhibition opened as planned in the school hall to an audience of parents and a photographer from the paper. Midway through, Mr Ashworth arrived from Dunton to announce loudly that there was no Oxford verification and the whole thing had been invented. At that exact moment a car alarm went off in the car park, which Mr Poppins insisted was the delegation's driver arriving. He then distracted from this lie by setting fire to the hschool gym. Everyone was to busy avoiding being burnt to death and completely forgot about the visit.
 
-![School hijinx](school.jpg){style="max-width:400px;height:auto;"}
+<img src="school.jpg" alt="School hijinx" style="max-width:400px;height:auto;">
 <div class="caption">Mr Bobby saving the day.</div>
 
 However there was still the issue of the school boasting outstanding grades so Mr Bobby saved the day by using a computer to change the pupils grades like in Wargames.
