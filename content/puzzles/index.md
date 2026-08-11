@@ -66,6 +66,4 @@ Prize: luxury cruise for 18 people on the River Stour, alight Grove Ferry, disem
 
 5. ARTISTIC BATTLESHIPS - winner was Mrs Olive Trabezant who depicted A4 in yellow.
 
-6. WHERE IN THE WORLD? - Timmy was in Tabor, Czech Republic at Mighty Sounds Punk and Ska Festival watching Fidlar.
-
-*Answers withheld pending an internal review. The Editor apologises for any confusion caused by last week's answers, this week's answers, or answers in general.*
+6. WHERE IN THE WORLD? - Timmy was in Tabor, Czech Republic at Mighty Sounds Punk and Ska Festival.
