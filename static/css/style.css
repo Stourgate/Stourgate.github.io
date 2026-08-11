@@ -115,14 +115,12 @@ h2.headline {
   border: 4px ridge #808080;
   height: 200px;
   overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   margin-top: 8px;
 }
 .hero-photo img {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
   display: block;
 }
 .article-item {
