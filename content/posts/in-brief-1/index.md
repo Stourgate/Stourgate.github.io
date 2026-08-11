@@ -2,7 +2,7 @@
 title: "Stourgate In Brief"
 date: 2026-08-08T09:25:00+01:00
 draft: false
-categories: ["In Brief"]
+categories: ["inbrief"]
 image: "photo.jpg"
 caption: "Breaking or uninteresting stories."
 ---
