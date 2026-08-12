@@ -27,9 +27,9 @@ caption: "Breaking or uninteresting stories."
 
 **Council review**. Dunton Council are reviewing the use of cheese in future road repairs. 
 chemist
+
 <img src="chemist.jpg" alt="Old bag getting in the way." style="max-width:100%;height:auto;">
 <div class="caption">All sorts of upheaval at the chemist.</div>
-
 **Chemist opening hours.** Dunton Chemist and Ballet Supplies to open 9 to 5:30pm instead of 9 to 5:27pm.
 
 **Stourgate Town signing.** Stourgate Town have signed Tonali from Spurs, fee believed to be £130M. The Italian only spent 3 weeks playing for Tottenham.
