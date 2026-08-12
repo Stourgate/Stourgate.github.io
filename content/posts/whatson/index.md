@@ -17,8 +17,8 @@ Come join us at **Stourgate Village Hall live music** on Friday, September 18th.
 
 **CINEMA**
 
-<img src="school.jpg" alt="School hijinx" style="max-width:100%;height:auto;">
-<div class="caption">Mr Bobby saving the day.</div>
+<img src="cinema.jpg" alt="Regal Cinema" style="max-width:100%;height:auto;">
+<div class="caption">Waste some time here.</div>
 
 **Stourgate Regal Cinema showtimes**
 
