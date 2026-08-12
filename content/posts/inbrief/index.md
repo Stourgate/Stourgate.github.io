@@ -26,6 +26,9 @@ caption: "Breaking or uninteresting stories."
 **Stourgate is best.**  Stourgate named as #476 best seaside town to visit in Kent by the Good Seaside town to Visit Guide.
 
 **Council review**. Dunton Council are reviewing the use of cheese in future road repairs. 
+chemist
+<img src="chemist.jpg" alt="Old bag getting in the way." style="max-width:100%;height:auto;">
+<div class="caption">All sorts of upheaval at the chemist.</div>
 
 **Chemist opening hours.** Dunton Chemist and Ballet Supplies to open 9 to 5:30pm instead of 9 to 5:27pm.
 
