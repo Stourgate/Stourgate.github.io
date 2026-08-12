@@ -1,6 +1,6 @@
 ---
 title: "Dunton Town Announce New Manager"
-date: 2026-08-09T09:05:00+01:00
+date: 2026-08-11T09:05:00+01:00
 draft: false
 categories: ["Sport"]
 image: "photo.jpg"
