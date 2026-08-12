@@ -48,6 +48,9 @@ Are you looking to push your **thrill-seeking limits** to absolute extremes? Joi
 <div class="caption">Deardre Allens practicing with the late John Rogers.</div>
 
 **Stourgate Beginners** Trauma Surgery Practice Club, where members can gain hands-on experience in emergency field medicine, rapid tourniquet application, and urgent blood-loss management in a fast-paced, highly practical environment. Stourgate pier,  every Friday 7:15pm. **£8.50**.
+<img src="surgery.jpg" alt="Learn to fix people." style="max-width:100%;height:auto;">
+<div class="caption">Emergency surgery at the village hall.</div>
+
 
 **Kids Torture Enthusiasts**. Stourbridge Nursery, 3pm every day except Christmas. Get your kids into torture at an early age. We have our own thumbscrews and a rack. **Free**.
 
