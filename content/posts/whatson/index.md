@@ -16,6 +16,10 @@ Come join us at **Stourgate Village Hall live music** on Friday, September 18th.
 **Dunton Church choir Covers CD release party**. Dunton Church Friday, September 18th. Come see us sing our new CD of classic covers, all proceeds go to the church roof fund. CD can be bought for £8.50 from the village hall, track listing: 1. Bridge Over Troubled Water, 2. Hallelujah, 3. You've Got a Friend, 4. Lean on Me, 5. God Only Knows, 6. Fix You, 7. Sound of Silence, 8. Fields of Gold, 9. Make You Feel My Love, and 10. Nazi Punks Fuck Off.
 
 **CINEMA**
+
+<img src="school.jpg" alt="School hijinx" style="max-width:100%;height:auto;">
+<div class="caption">Mr Bobby saving the day.</div>
+
 **Stourgate Regal Cinema showtimes**
 
 **Tam Tam Abamtamtam Bollywood** film starring Maheep Kapoor as a disgraced chair fighter. 3h 57m. Due to long running time customers in the second showing will have to sit though the last 57 minutes of the first.
