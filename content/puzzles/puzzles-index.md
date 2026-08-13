@@ -12,7 +12,7 @@ Clue: it is not oblong.
 
 ---
 
-**2. CRYPTIC CROSSWORD**
+**2. CRYPTIC CLUE ABOUT THE DARKNESS**
 
 Justin, singer of the Darkness made the love sign. Must be a messed up shithead wanker (7,7).
 
@@ -52,6 +52,33 @@ Prize: luxury cruise for 18 people on the River Stour, alight Grove Ferry, disem
 
 ---
 
+**7. STOURGATE CROSSWORD**
+
+![Stourgate Crossword](crossword.png)
+<div class="caption">Fourteen clues. First correct entry wins nothing, as usual.</div>
+
+**ACROSS**
+
+1. Anarcho-Punk band (8)
+2. Band, or an accurate description of the council's decision-making (4,3,4,7)
+3. SGS headmaster, first name (3)
+4. Stourgate's serially relegated new manager, first name (3)
+5. Stourgate Town's home ground (6)
+6. Band mangles bashful filth maniac (4,3,4,7)
+7. Anarcho-punk band (5)
+8. Ian Lees (6)
+
+**DOWN**
+
+1. What the RSPCA marksman was doing while waiting for the dog to reappear (12)
+2. Band who get knocked down, but get up again. Actually that is not true because they split up. So try:  Anarcho-Punk band (11)
+3. What's allegedly in the marina after the alien crash (6,4)
+4. The opposite of is heavily but also the same thing (3,7)
+5. Rancid shithole (6)
+6. God's favourite town (9)
+
+---
+
 *Answers in next week's edition. The Editor's decision is final.
 
 ---
@@ -60,7 +87,7 @@ Prize: luxury cruise for 18 people on the River Stour, alight Grove Ferry, disem
 
 1. GUESS THE WORD - kayaak (canoe is not ok).
 
-2. CRYPTIC CROSSWORD - Beleaguered Trouser Trumpet.
+2. CRYPTIC CROSSWORD ABOUT THE DARKNESS - Beleaguered Trouser Trumpet.
 
 3. GENERAL KNOWLEDGE - all the answers were 7.
 
