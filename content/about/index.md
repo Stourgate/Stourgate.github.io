@@ -30,7 +30,11 @@ Then you get to the 1930s, and this is where it gets a bit more sensitive."
 
 "There was a local group, called themselves the Stourgate Legion. Pendelton's line on them is that they were 'misunderstood traditionalists,' which is one way of putting it, given they were flying German flags out past what's now Frinkley-on-Sea and signalling passing aircraft. Whatever they thought they were doing, it got the attention of Himmler's Ahnenerbe outfit, who took an interest in a crest on the map Pendelton reckons marks an old Saxon ley line. When the war ended, the material got confiscated, Himmler's files on it were classified by the War Office in 1945, and the Ministry of Defence has never released what's apparently called the Stourgate Dossier. Pendelton is convinced this proves something. Nobody else at the Historical Society seems entirely sure what.
 
-Even after the war it doesn't stop. A defence contractor buried barrels of surplus nerve agent in the old quarries near West Linglangton in the sixties, and there's been unexplained blight out there ever since. These days we've got the Stourgate Sands Caravan Park sitting on top of the old mine drainage, and a Tesco Express built, according to the Facebook groups, directly over the 1894 cholera ward. Half the night staff have apparently already asked for a transfer over what they're calling 'unexplained drafts in the bakery aisle.'
+Even after the war it doesn't stop. A defence contractor buried barrels of surplus nerve agent in the old quarries near West Linglangton in the sixties, and there's been unexplained blight out there ever since. 
+<img src="wastedump.jpg" alt="They had the best intentions at heart." style="max-width:100%;height:auto;">
+<div class="caption">Burying barrels of surplus nerve agent for fun.</div>
+
+These days we've got the Stourgate Sands Caravan Park sitting on top of the old mine drainage, and a Tesco Express built, according to the Facebook groups, directly over the 1894 cholera ward. Half the night staff have apparently already asked for a transfer over what they're calling 'unexplained drafts in the bakery aisle.'
 
 So there's your scorch mark on the old map. Plague, witch trials, Nazi sympathisers convinced they were onto something ancient, and now a meal deal on top of a plague pit. The place just keeps finding new ways to do it."
 
@@ -63,4 +67,9 @@ Stourgate is officially twinned with a small town in Belgium . Talks to establis
 **Coat of Arms**
 
 The town's coat of arms depicts a herring, a set of bed valances, and a Latin motto which translates roughly as "we are also reviewing this."
+<img src="coatofarms.jpg" alt="Stourgate coat of arms." style="max-width:100%;height:auto;">
+<div class="caption">Stourgate's coat of arms is a bit rubbish.</div>
+In 1997 the town's badge was controversially rebranded with the fiancial assistance of a local business.
+<img src="coatofarmsRebrand.jpg" alt="Stourgate's modern coat of arms." style="max-width:100%;height:auto;">
+<div class="caption">Stourgate's coat of arms a much better version.</div>
 
