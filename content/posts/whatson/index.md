@@ -52,7 +52,7 @@ Are you looking to push your **thrill-seeking limits** to absolute extremes? Joi
 <div class="caption">Emergency surgery at the village hall.</div>
 
 
-**Kids Torture Enthusiasts**. Stourbridge Nursery, 3pm every day except Christmas. Get your kids into torture at an early age. We have our own thumbscrews and a rack. **Free**.
+**Kids Torture Enthusiasts**. Stourgate Nursery, 3pm every day except Christmas. Get your kids into torture at an early age. We have our own thumbscrews and a rack. **Free**.
 
 **Burn a Book Jamboree** - bring a book to burn or help us to burn our collection of Dawn French books. Friday, September 18th, West Ronton Church. **Free**.
 
