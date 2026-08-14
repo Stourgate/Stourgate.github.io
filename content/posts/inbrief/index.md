@@ -14,7 +14,7 @@ caption: "Breaking or uninteresting stories."
 
 **Stourgate one of seven gates of hell.** Retiring Cardinal Alfonso Ricci says there is a portal to hell behind Betfred in the High Street.
 
-![Stourgate High Street](highstreet.jpg)
+<img src="highstreet.jpg" alt="Stourgate High Street" title="Stourgate High Street">
 <div class="caption">Stourgate High Street during last year's carnival.</div>
 
 **Found**: Packet of tissues at La Cucuracha Mexican restaurant. Write to the Bugle describing them to claim.
@@ -28,14 +28,11 @@ caption: "Breaking or uninteresting stories."
 **Council review**. Dunton Council are reviewing the use of cheese in future road repairs. 
 chemist
 
-<img src="chemist.jpg" alt="Old bag getting in the way." style="max-width:100%;height:auto;">
+<img src="chemist.jpg" alt="Old bag getting in the way." title="Old bag getting in the way." style="max-width:100%;height:auto;">
 <div class="caption">All sorts of upheaval at the chemist.</div>
 **Chemist opening hours.** Dunton Chemist and Ballet Supplies to open 9 to 5:30pm instead of 9 to 5:27pm.
 
 **Stourgate Town signing.** Stourgate Town have signed Tonali from Spurs, fee believed to be £130M. The Italian only spent 3 weeks playing for Tottenham.
 
-![Tonali signs for Stourgate Town](tonali.jpg)
+<img src="tonali.jpg" alt="Tonali signs for Stourgate Town" title="Tonali signs for Stourgate Town">
 <div class="caption">Tonali debut in East Kent Roller Blinds Second Division game.</div>
-
-
-

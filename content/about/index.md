@@ -18,6 +18,7 @@ Stourgate Castle stood on the site of what is now the Tesco Express on the High 
 The map of Stourgate above dates from 1322 and was created for Baron Roger DeBlood a Norman Lord. DeBlood owned most of the land around Stourgate which he rented to tenants. He was extermely cruel to his tentants demanding high rents and calling several of them ugly and sometimes fat. He also organised a Friday parade where the tenents were forced to walk through the streets of Stourgate dressed in medieval cowboy, contruction worker and other outfits and sing the medieval hymn Iuventus Mystica Christi Adunatio. Many tttttnnaiirrents left the village after the shame of singing, *Scis te ire velle ad IMCA*.
 
 The map and the wider history of Stourgate are discussed in...
+
 **Kent Historical Society Podcast, Episode 114**
 Guest: Dr Arthur Pendelton, author of *Dark Waters: A History of the Stourgate District*
 
@@ -61,6 +62,7 @@ Further afield are West Ronton, Nether Eckwerp, birthplace of one of the dancers
 Stourgate is officially twinned with a small town in Belgium, Brussels. Talks to establish a second twinning arrangement with a town in France collapsed in 2019 after the French delegation left early and did not respond to further correspondence.
 
 **Local Legends**
+
 [spaceholder]
 
 **Coat of Arms**
@@ -68,6 +70,7 @@ Stourgate is officially twinned with a small town in Belgium, Brussels. Talks to
 The town's coat of arms depicts a herring, a set of bed valances, and a Latin motto which translates roughly as "we are also reviewing this."
 <img src="coatofarms.jpg" alt="Stourgate coat of arms." style="max-width:100%;height:auto;">
 <div class="caption">Stourgate's coat of arms is a bit rubbish.</div>
+
 In 1997 the town's badge was controversially rebranded with the fiancial assistance of a local business.
 <img src="coatofarmsRebrand.jpg" alt="Stourgate's modern coat of arms." style="max-width:100%;height:auto;">
 <div class="caption">Stourgate's coat of arms a much better version.</div>
