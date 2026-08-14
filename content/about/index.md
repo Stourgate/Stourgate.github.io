@@ -41,7 +41,7 @@ It doesn't stop with the war, either. A defence contractor buried barrels of sur
 These days you've got the Stourgate Sands Caravan Park sitting right on top of the old mine drainage, and a Tesco Express. So it's not all gloom and doom.
 
 **Modern Stourgate**
-<img src="map.jpg" alt="Stourgate region of Kent." title="Stourgate region of Kent." style="max-width:100%;height:auto;">
+<img src="map.jpg" alt="Stourgate region of Kent." title="Stourgate region of Kent obviously." style="max-width:100%;height:auto;">
 <div class="caption">Top class modern map of Stourgate.</div>
 
 Today Stourgate is home to just over twenty four thousand people, one marina, one pier, one planned bypass, and one football club.
@@ -72,6 +72,6 @@ The town's coat of arms depicts a herring, a set of bed valances, and a Latin mo
 <div class="caption">Stourgate's coat of arms is a bit rubbish.</div>
 
 In 1997 the town's badge was controversially rebranded with the fiancial assistance of a local business.
-<img src="coatofarmsRebrand.jpg" alt="Stourgate's modern coat of arms." title="Stourgate's modern coat of arms." style="max-width:100%;height:auto;">
+<img src="coatofarmsRebrand.jpg" alt="Stourgate's modern coat of arms." title="Stourgate's better coat of arms. It IS better. Fuck off." style="max-width:100%;height:auto;">
 <div class="caption">Stourgate's coat of arms a much better version.</div>
 

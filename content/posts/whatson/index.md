@@ -17,7 +17,7 @@ Come join us at **Stourgate Village Hall live music** on Friday, September 18th.
 
 **CINEMA**
 
-<img src="cinema.jpg" alt="Regal Cinema" title="Regal Cinema" style="max-width:100%;height:auto;">
+<img src="cinema.jpg" alt="Regal Cinema" title="Regal Cinema. Don't book those films because this is an old photo. Unless you are booking when those films are on. Then go ahead or just sneak in through the fire exit." style="max-width:100%;height:auto;">
 <div class="caption">Waste some time here.</div>
 
 **Stourgate Regal Cinema showtimes**
@@ -48,7 +48,7 @@ Are you looking to push your **thrill-seeking limits** to absolute extremes? Joi
 <div class="caption">Deardre Allens practicing with the late John Rogers.</div>
 
 **Stourgate Beginners** Trauma Surgery Practice Club, where members can gain hands-on experience in emergency field medicine, rapid tourniquet application, and urgent blood-loss management in a fast-paced, highly practical environment. Stourgate pier,  every Friday 7:15pm. **£8.50**.
-<img src="surgery.jpg" alt="Learn to fix people." title="Learn to fix people." style="max-width:100%;height:auto;">
+<img src="surgery.jpg" alt="Learn to fix people." title="Learn to fix people even if you are clumsy or prefer to hurt people." style="max-width:100%;height:auto;">
 <div class="caption">Emergency surgery at the village hall.</div>
 
 
@@ -62,7 +62,7 @@ Are you looking to push your **thrill-seeking limits** to absolute extremes? Joi
 
 **Build your own** mausoleum. Three week course at Dunton Craft Village. Wednesdays at 5pm, start July 4th. **£11.12p** per week.
 
-Carpet **Art show**. Everyday from 9 to 5 at Stourgate Carpet World. See local artists carpets including Axminsters. The art can be purchased and fitted by our experienced art fitters. Show **free**, extra costs for underlaye, grippers, berber etc. 
+Carpet **Art show**. Everyday from 9 to 5 at Stourgate Carpet World. See local artists carpets including Axminsters. The art can be purchased and fitted by our experienced art fitters. Show **free**, extra costs for underlay, grippers, berber etc. 
 
 **Build your own** working air craft carrier. 90,000 week course at Dunton Craft Village. Wednesdays at 4pm, start October 8th. **£100,000.12p** per week. Discount for ex armed forces.
 

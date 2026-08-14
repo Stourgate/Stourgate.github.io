@@ -14,7 +14,7 @@ caption: "Breaking or uninteresting stories."
 
 **Stourgate one of seven gates of hell.** Retiring Cardinal Alfonso Ricci says there is a portal to hell behind Betfred in the High Street.
 
-<img src="highstreet.jpg" alt="Stourgate High Street" title="Stourgate High Street" style="max-width:100%;height:auto;">
+<img src="highstreet.jpg" alt="Stourgate High Street" title="Stourgate's beautiful High Street" style="max-width:100%;height:auto;">
 <div class="caption">Stourgate High Street during last year's carnival.</div>
 
 **Found**: Packet of tissues at La Cucuracha Mexican restaurant. Write to the Bugle describing them to claim.
@@ -34,5 +34,5 @@ chemist
 
 **Stourgate Town signing.** Stourgate Town have signed Tonali from Spurs, fee believed to be £130M. The Italian only spent 3 weeks playing for Tottenham.
 
-<img src="tonali.jpg" alt="Tonali signs for Stourgate Town" title="Tonali signs for Stourgate Town" style="max-width:100%;height:auto;">
+<img src="tonali.jpg" alt="Tonali signs for Stourgate Town" title="Tonali signs for Stourgate Town.Showing why he is worth £130M." style="max-width:100%;height:auto;">
 <div class="caption">Tonali debut in East Kent Roller Blinds Second Division game.</div>
