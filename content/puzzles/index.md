@@ -3,7 +3,7 @@ title: "Puzzles"
 date: 2026-08-08T10:30:00+01:00
 draft: false
 image: "photo.jpg"
-caption: "Do some fucking puzzles.
+caption: "Do some fucking puzzles."
 ---
 
 **1. GUESS THE WORD**
