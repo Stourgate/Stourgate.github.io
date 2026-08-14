@@ -2,7 +2,7 @@
 <h2 class="headline">{{ .Title }}</h2>
 {{ if .Params.image }}
 <figure class="article-photo-large">
-  <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
+  <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" title="{{ .Title }}">
   {{ if .Params.caption }}<figcaption class="caption">{{ .Params.caption }}</figcaption>{{ end }}
 </figure>
 {{ else }}

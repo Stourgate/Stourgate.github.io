@@ -18,7 +18,7 @@ Word spread quickly. By the following morning the story had grown to include a r
 
 Stourgate's actual results, while an improvement, were nothing like as remarkable as the story suggested. Mr Poppins, unbothered by this, threw himself into organising a small exhibition of the pupils' coursework for the supposed visit, on the theory that if nobody from Oxford turned up at least the corridor would look nice.
 
-<img src="artwork.jpg" alt="Rubbish aren't they?" style="max-width:100%;height:auto;">
+<img src="artwork.jpg" alt="Rubbish aren't they?" title="Rubbish aren't they?" style="max-width:100%;height:auto;">
 <div class="caption">Six formers showing off their top art.</div>
 
 
@@ -28,7 +28,7 @@ With the local paper still running the story and governors asking questions, the
 
 The two made up, the "cancelled" signs came down from the noticeboard, and the exhibition opened as planned in the school hall to an audience of parents and a photographer from the paper. Midway through, Mr Ashworth arrived from Dunton to announce loudly that there was no Oxford verification and the whole thing had been invented. At that exact moment a car alarm went off in the car park, which Mr Poppins insisted was the delegation's driver arriving. He then distracted from this lie by setting fire to the hschool gym. Everyone was to busy avoiding being burnt to death and completely forgot about the visit.
 
-<img src="school.jpg" alt="School hijinx" style="max-width:100%;height:auto;">
+<img src="school.jpg" alt="School hijinx" title="School hijinx" style="max-width:100%;height:auto;">
 <div class="caption">Mr Bobby saving the day.</div>
 
 However there was still the issue of the school boasting outstanding grades so Mr Bobby saved the day by using a computer to change the pupils grades like in Wargames.

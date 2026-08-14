@@ -4,7 +4,7 @@
 <div class="article-item">
   {{ if .Params.image }}
     <a class="article-photo" href="{{ .RelPermalink }}">
-      <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
+      <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" title="{{ .Title }}">
       {{ if .Params.caption }}<span class="hover-caption">{{ .Params.caption }}</span>{{ end }}
     </a>
   {{ else }}

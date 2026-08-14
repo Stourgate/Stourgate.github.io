@@ -17,7 +17,7 @@ Come join us at **Stourgate Village Hall live music** on Friday, September 18th.
 
 **CINEMA**
 
-<img src="cinema.jpg" alt="Regal Cinema" style="max-width:100%;height:auto;">
+<img src="cinema.jpg" alt="Regal Cinema" title="Regal Cinema" style="max-width:100%;height:auto;">
 <div class="caption">Waste some time here.</div>
 
 **Stourgate Regal Cinema showtimes**
@@ -44,11 +44,11 @@ Come join us at **Stourgate Village Hall live music** on Friday, September 18th.
 
 Are you looking to push your **thrill-seeking limits** to absolute extremes? Join the Stourgate Blindfolded Wheel of Death Trick Club, where complete beginners can learn the precise, heart-stopping art of tossing razor-sharp axes at a rapidly spinning target while wearing a thick velvet blindfold. Stourgate pier,  every Friday 7pm. **£8.50**.
 
-<img src="axethrowing.jpg" alt="Throw axes at gimps." style="max-width:100%;height:auto;">
+<img src="axethrowing.jpg" alt="Throw axes at gimps." title="Throw axes at gimps." style="max-width:100%;height:auto;">
 <div class="caption">Deardre Allens practicing with the late John Rogers.</div>
 
 **Stourgate Beginners** Trauma Surgery Practice Club, where members can gain hands-on experience in emergency field medicine, rapid tourniquet application, and urgent blood-loss management in a fast-paced, highly practical environment. Stourgate pier,  every Friday 7:15pm. **£8.50**.
-<img src="surgery.jpg" alt="Learn to fix people." style="max-width:100%;height:auto;">
+<img src="surgery.jpg" alt="Learn to fix people." title="Learn to fix people." style="max-width:100%;height:auto;">
 <div class="caption">Emergency surgery at the village hall.</div>
 
 

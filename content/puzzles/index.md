@@ -54,7 +54,7 @@ Prize: luxury cruise for 18 people on the River Stour, alight Grove Ferry, disem
 
 **7. STOURGATE CROSSWORD**
 
-![Stourgate Crossword](crossword.png)
+<img src="crossword.png" alt="Stourgate Crossword" title="Stourgate Crossword" style="max-width:100%;height:auto;">
 <div class="caption">Fourteen clues. First correct entry wins nothing, as usual.</div>
 
 **ACROSS**
