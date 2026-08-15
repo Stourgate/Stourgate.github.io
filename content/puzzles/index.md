@@ -15,15 +15,17 @@ Clue: it is not oblong.
 **2. CRYPTIC CLUE ABOUT THE DARKNESS**
 
 Justin, singer of the Darkness made the love sign. Must be a messed up shithead wanker (7,7).
+<img src="darkness.png" alt="Heavy metal makes life go on." title="Heavy metal makes life go on." style="max-width:100%;height:auto;">
+<div class="caption">The Darkness playing Stourgate in 2012.</div>
 
 ---
 
 **3. GENERAL KNOWLEDGE**
 
 1. What is the capital of Brazil?
-2. What is the capital of £8.50?
+2. What is the connection between Ghandi, Leamington Spa, a gherkin, and Tower Bridge? (Clue:welding equipment).
 3. Where were Dorothy and Herman married?
-4. If I take 7 from 8 what is left (clue: it's 1).
+4. If I take 7 from 8 what is left? (Clue: it's 1).
 5. What is the only landlocked ocean?
 6. How much is a haircut these days?
 
@@ -31,9 +33,9 @@ Justin, singer of the Darkness made the love sign. Must be a messed up shithead 
 
 **4. BRAIN TEASERS**
 
-1. If it takes 2 men eight days to dig a hole how big is it?
+1. If it takes 2 men eight days to dig a hole, how big is it?
 2. There is only one word in the English language that rhymes with cat. What is it?
-3. Alice and Jack are at a dinner party with two other couples, Bob and Bob and Bob and Bob. No one called Bob is allowed to sit next to another Bob, no woman can sit at the table, all diners must be left handed, each couple must sit tangentially opposed to each other, where does Jack sit?
+3. Alice and Jack are at a dinner party with two other couples, Bob and Bob and Bob and Bob. No one called Bob is allowed to sit next to another Bob, no woman can sit at the table, all diners must be left handed, each couple must sit tangentially opposed to each other. Where does Jack sit?
 4. How many Reform voters does it take to screw in a light bulb?
 
 ---

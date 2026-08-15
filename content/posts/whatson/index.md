@@ -42,12 +42,12 @@ Come join us at **Stourgate Village Hall live music** on Friday, September 18th.
 
 **Racist Club**, The Old Duck, every Friday 7pm. Come moan about foreigners and non-white people. **Free**.
 
-Are you looking to push your **thrill-seeking limits** to absolute extremes? Join the Stourgate Blindfolded Wheel of Death Trick Club, where complete beginners can learn the precise, heart-stopping art of tossing razor-sharp axes at a rapidly spinning target while wearing a thick velvet blindfold. Stourgate pier,  every Friday 7pm. **£8.50**.
+**Stourgate Blindfolded Wheel of Death Trick Club** Are you looking to push your **thrill-seeking limits** to absolute extremes? Join the Stourgate Blindfolded Wheel of Death Trick Club, where complete beginners can learn the precise, heart-stopping art of tossing razor-sharp axes at a rapidly spinning target while wearing a thick velvet blindfold. Stourgate Village Hall,  every Friday 7pm. **£8.50**.
 
 <img src="axethrowing.jpg" alt="Throw axes at gimps." title="Throw axes at gimps." style="max-width:100%;height:auto;">
 <div class="caption">Deardre Allens practicing with the late John Rogers.</div>
 
-**Stourgate Beginners** Trauma Surgery Practice Club, where members can gain hands-on experience in emergency field medicine, rapid tourniquet application, and urgent blood-loss management in a fast-paced, highly practical environment. Stourgate pier,  every Friday 7:15pm. **£8.50**.
+**Stourgate Beginners Trauma Surgery Practice Club**, where members can gain hands-on experience in emergency field medicine, rapid tourniquet application, and urgent blood-loss management in a fast-paced, highly practical environment. Stourgate Village Hall,  every Friday 7:15pm. **£8.50**.
 <img src="surgery.jpg" alt="Learn to fix people." title="Learn to fix people even if you are clumsy or prefer to hurt people." style="max-width:100%;height:auto;">
 <div class="caption">Emergency surgery at the village hall.</div>
 
@@ -55,6 +55,8 @@ Are you looking to push your **thrill-seeking limits** to absolute extremes? Joi
 **Kids Torture Enthusiasts**. Stourgate Nursery, 3pm every day except Christmas. Get your kids into torture at an early age. We have our own thumbscrews and a rack. **Free**.
 
 **Burn a Book Jamboree** - bring a book to burn or help us to burn our collection of Dawn French books. Friday, September 18th, West Ronton Church. **Free**.
+<img src="bookburning.jpg" alt="Not as good as burning the actual Dawn French." title="Not as good as burning the actual Dawn French." style="max-width:100%;height:auto;">
+<div class="caption">Come join us to repress free speech especially Dawn French's.</div>
 
 **ART AND CRAFT**
 
