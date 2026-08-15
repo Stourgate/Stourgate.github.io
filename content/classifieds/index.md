@@ -2,6 +2,8 @@
 title: "Classifieds"
 date: 2026-08-08T10:00:00+01:00
 draft: false
+image: "photo.jpg"
+caption: "Buy, sell, make use of, take on holiday, put in fridge or toilet."
 ---
 
 *All replies should be addressed to the box number shown, c/o The Stourgate Bugle office. The Bugle accepts no responsibility for the contents of any reply, box, or elephant.*
