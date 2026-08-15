@@ -52,15 +52,15 @@ Prize: luxury cruise for 18 people on the River Stour, alight Grove Ferry, disem
 
 ---
 
-**7. STOURGATE CROSSWORD**
+**7. NEW: STOURGATE CROSSWORD**
 
 <img src="crossword.png" alt="Stourgate Crossword" title="Stourgate Crossword and weighbridge." style="max-width:100%;height:auto;">
-<div class="caption">Fourteen clues. First correct entry wins nothing, as usual.</div>
+<div class="caption">Fourteen clues. First correct entry wins one of the Bee Gees.</div>
 
 **ACROSS**
 
 1. Anarcho-Punk band (8)
-2. Band, or an accurate description of the council's decision-making (4,3,4,7)
+2. Band split evenly over manager's start, then split again over its cubicle's opening (4,3,4,7)
 3. SGS headmaster, first name (3)
 4. Stourgate's serially relegated new manager, first name (3)
 5. Stourgate Town's home ground (6)
