@@ -1,22 +1,23 @@
 {{ define "main" }}
-<div class="under-construction">NOTICE: Due to the serious nature of professional news reporting, this website may contain strong language and adult themes. Babies should avoid this site.</div>
 <h2 class="headline">Latest News</h2>
-{{ range first 10 (where .Site.RegularPages "Type" "posts") }}
-<div class="article-item">
-  {{ if .Params.image }}
-    <a class="article-photo" href="{{ .RelPermalink }}">
-      <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" title="{{ .Title }}">
-      {{ if .Params.caption }}<span class="hover-caption">{{ .Params.caption }}</span>{{ end }}
-    </a>
-  {{ else }}
-    <div class="article-photo photo-placeholder">[ PHOTO ]</div>
-  {{ end }}
-  <div class="article-text">
+{{ $posts := (where .Site.RegularPages "Type" "posts").ByDate.Reverse }}
+{{ $seen := slice }}
+{{ range $posts }}
+  {{ $cat := "" }}
+  {{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
+  {{ if not (in $seen $cat) }}
+    {{ $seen = $seen | append $cat }}
+    {{ if .Params.image }}
+      <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
+        <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" title="{{ .Title }}">
+      </a>
+    {{ else }}
+      <div class="article-photo photo-placeholder">[ PHOTO ]</div>
+    {{ end }}
     <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
     <p>{{ .Summary }}</p>
-  </div>
-</div>
-<hr class="stars">
+    <hr class="stars">
+  {{ end }}
 {{ end }}
 {{ end }}
