@@ -8,6 +8,7 @@ caption: "Send us your letters via post. Emails will not be read."
 ---
 Readers respond to last week's coverage of the seafront car park consultation.
 
+---
 **Dear Editor,**
 I was deeply saddened to read your editorial last week [Seafront Car Park It's a Winner].
 My wife and I live in a **caravan** by the seafront and the last thing we need is a car park. We haven't even got a car for goodness sake!
@@ -17,6 +18,7 @@ Why can't Stourgate go back to when it was a lovely town, just before the war. I
 
 Regards, Colonel James Harrington (retd), Stourgate.
 
+---
 **Dear Editor,**
 I read with interest last week's editorial and I couldn't **agree** more. A new car park will attract all sorts and bring prosperity to the town, possibly the like never seen before.
 
@@ -25,6 +27,7 @@ I expect with a new car park we will probably see the influx of major investment
 Regards,
 Tom Faak, East Dunton.
 
+---
 **Dear Editor,**
 Your editorial last week caused a lot of debate at the **Stourgate Nettle Factory Social Club**.
 There were a lot of passionate supporters and an equal number of those opposed. Sadly a fight broke out leading to several deaths and serious injuries.
