@@ -1,4 +1,5 @@
 {{ define "main" }}
+<div class="under-construction">NOTICE: Due to the serious nature of professional news reporting, this website may contain strong language and adult themes. Babies should avoid this site.</div>
 <h2 class="headline">Latest News</h2>
 {{ $posts := (where .Site.RegularPages "Type" "posts").ByDate.Reverse }}
 {{ $seen := slice }}
