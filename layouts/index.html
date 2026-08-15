@@ -8,8 +8,8 @@
   {{ if not (in $seen $cat) }}
     {{ $seen = $seen | append $cat }}
     {{ if .Params.image }}
-      <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
-        <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" title="{{ .Title }}">
+      <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank" style="float:right;width:320px;max-width:45%;height:180px;margin:0 0 6px 10px;overflow:hidden;display:block;">
+        <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" title="{{ .Title }}" style="width:100%;height:100%;object-fit:cover;display:block;">
       </a>
     {{ else }}
       <div class="article-photo photo-placeholder">[ PHOTO ]</div>
@@ -17,6 +17,7 @@
     <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
     <p>{{ .Summary }}</p>
+    <p><a href="{{ .RelPermalink }}">Read more &raquo;</a></p>
     <hr class="stars">
   {{ end }}
 {{ end }}
