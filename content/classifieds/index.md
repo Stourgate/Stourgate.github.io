@@ -113,16 +113,17 @@ Couple seeks closed minded goat. West Ronton. (Box 1505)
 ---
 
 **FRILLY DECORATIVE EDGES FOR BEDS**
+<img src="frillmarket.jpg" alt="Intense bidding on these twin Herbrides ruffles." title="Intense bidding on these twin Herbrides ruffles." style="max-width:100%;height:auto;">
+<div class="caption">West Ronton Valence market.</div>
+**DECORATIVE EDGE WAREHOUSE** - Over 4,000 sq ft of frill under one roof. Everything must go. Free parking, kids funfair. Send Stamped Addressed Envelope for sample. (Box 1601)
 
-**DECORATIVE EDGE WAREHOUSE** - Over 4,000 sq ft of frill under one roof. Everything must go. Free parking, kids funfair. (Box 1601)
+**DECORATIVE EDGE UNIVERSE** - If it's got a ruffle, we've got it. Now stocking the autumn range of box-pleat valances in eleven shades of cream. Send Stamped Addressed shipping container for several valences on beds samples. (Box 1602)
 
-**DECORATIVE EDGE UNIVERSE** - If it's got a ruffle, we've got it. Now stocking the autumn range of box-pleat valances in eleven shades of cream. (Box 1602)
+**DECORATIVE EDGE MULTIVERSE** - Somewhere out there is the frill of your dreams. We stock it, in every dimension, in stock now at our unit behind the retail park. Send Stamped Addressed (to whichever version of you you are) Envelope for sample. (Box 1603)
 
-**DECORATIVE EDGE MULTIVERSE** - Somewhere out there is the frill of your dreams. We stock it, in every dimension, in stock now at our unit behind the retail park. (Box 1603)
+**VALANCE NATION** - Home of the double-box-pleat since 1994. Ask about our loyalty card. No samples, sorry. (Box 1604)
 
-**VALANCE NATION** - Home of the double-box-pleat since 1994. Ask about our loyalty card. (Box 1604)
-
-**THE FRILL OUTLET** - Trade prices for the public. No returns on bespoke gathers. (Box 1605)
+**THE FRILL OUTLET** - Trade prices for the public. No returns on bespoke gathers. Send sample for Stamped Addressed Envelope. (Box 1605)
 
 ---
 
