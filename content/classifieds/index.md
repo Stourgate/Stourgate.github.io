@@ -22,6 +22,10 @@ Large collection of small collections. Each contains various things including la
 
 Rocket powered car. Ford Escort XR3i with 6 large firework rockets either side. £750. Dunton. (Box 1008)
 
+Tea cosy album cover: put your favourite album cover on a tea cosy. Available: Michael Jackson - Thriller, Taylor Swift - Hobgoblin Cyclone, Crucifucks - first album or Wisconsin (sold out).
+
+House roof. Buyer must collect. £10. Dunton. (Box 10081)
+
 Complete works of William Shakespeare in solid gold (Readers Digest edition). £8M. Will take set of chisels in part exchange. West Ronton. (Box 1009)
 
 Home made pickled cat. Nicer than you'd think. £7 per jar. Also badger available. Stourgate. (Box 1010)
@@ -57,6 +61,14 @@ New build homes 3 and 4 bedroom luxury houses. Starting at £450,000. Great loca
 Free to good home: one (1) cat, answers to 'dog', good personality for a cat, although possibly racist, not sure. (Box 1301)
 
 Chickens, four, moderate egg output, one has HGV licence. (Box 1302)
+
+---
+
+**SERVICES**
+<img src="bts.jpg" alt="We use the latest tech to get rid of bad music." title="We use the latest tech to get rid of bad music." style="max-width:100%;height:auto;">
+<div class="caption">Our expert staff can convert your eight year old's entire collection.</div>
+
+BTS conversion - convert all your unwanted Korean shit BTS records and memorabilia into Built to Spill records and T-shirts. £8.50 per item.  (Box 13021)
 
 ---
 
