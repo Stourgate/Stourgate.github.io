@@ -115,6 +115,7 @@ Couple seeks closed minded goat. West Ronton. (Box 1505)
 **FRILLY DECORATIVE EDGES FOR BEDS**
 <img src="frillmarket.jpg" alt="Intense bidding on these twin Herbrides ruffles." title="Intense bidding on these twin Herbrides ruffles." style="max-width:100%;height:auto;">
 <div class="caption">West Ronton Valence market.</div>
+
 **DECORATIVE EDGE WAREHOUSE** - Over 4,000 sq ft of frill under one roof. Everything must go. Free parking, kids funfair. Send Stamped Addressed Envelope for sample. (Box 1601)
 
 **DECORATIVE EDGE UNIVERSE** - If it's got a ruffle, we've got it. Now stocking the autumn range of box-pleat valances in eleven shades of cream. Send Stamped Addressed shipping container for several valences on beds samples. (Box 1602)
