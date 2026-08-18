@@ -2,7 +2,7 @@
 title: "Is This The Most Evil Building In Britain?"
 date: 2026-08-15T09:00:00+01:00
 draft: false
-categories: ["History"]
+categories: ["History", "Features"]
 image: "photo.jpg"
 caption: "Stourgate Moor House, pictured before closure."
 ---
