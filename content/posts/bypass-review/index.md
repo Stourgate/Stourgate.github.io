@@ -2,7 +2,7 @@
 title: "Council Confirms Bypass Proposal Remains Under Review"
 date: 2026-08-08T09:00:00+01:00
 draft: false
-categories: ["Council"]
+categories: ["Community"]
 image: "photo.jpg"
 caption: "Our glorious council."
 ---

@@ -1,14 +1,12 @@
 <table class="nav-table"><tr>
   <td><a href="/">HOME</a></td>
   {{ $categories := slice
-    (dict "name" "COUNCIL" "term" "council")
     (dict "name" "SPORT" "term" "sport")
-    (dict "name" "SCHOOLS" "term" "schools")
-    (dict "name" "MARKET" "term" "market")
-    (dict "name" "HEALTH" "term" "health")
+    (dict "name" "COMMUNITY" "term" "community")
     (dict "name" "IN BRIEF" "term" "inbrief")
     (dict "name" "WHATS ON" "term" "whatson")
     (dict "name" "LETTERS" "term" "letters")
+    (dict "name" "FEATURES" "term" "features")
   }}
   {{ range $categories }}
     {{ $pages := index $.Site.Taxonomies.categories .term }}

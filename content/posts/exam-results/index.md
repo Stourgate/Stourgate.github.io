@@ -2,7 +2,7 @@
 title: "Grammar School Reports Record Exam Results"
 date: 2026-08-08T09:10:00+01:00
 draft: false
-categories: ["Schools"]
+categories: ["Community"]
 image: "photo.jpg"
 caption: "Roy Bobby, SGS headmaster."
 ---

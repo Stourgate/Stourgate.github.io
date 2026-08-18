@@ -2,7 +2,7 @@
 title: "Possible Alien Craft Reported Near Proposed Bypass Site"
 date: 2026-08-17T08:55:00+01:00
 draft: false
-categories: ["Council"]
+categories: ["Community"]
 image: "photo.jpg"
 caption: "Artist impression of how the crash might have appeared if it were different."
 ---

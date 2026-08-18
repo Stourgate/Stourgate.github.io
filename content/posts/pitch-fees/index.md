@@ -2,7 +2,7 @@
 title: "Market Traders Angry Over Pitch Fee Increase"
 date: 2026-08-08T09:15:00+01:00
 draft: false
-categories: ["Market"]
+categories: ["Community"]
 image: "photo.jpg"
 caption: "Agitated traders fighting a losing battle."
 ---
