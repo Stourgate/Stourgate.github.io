@@ -3,6 +3,7 @@ title: "Former Footballer Steve Helman Found Dead Outside Sainsbury's"
 date: 2026-08-25T09:00:00+01:00
 draft: false
 categories: ["Community"]
+image: "photo.jpg"
 caption: ""
 ---
 Former non-league footballer Steve Helman has been found dead outside the Sainsbury's superstore on Stourgate Road in what police are treating as an unexplained death.

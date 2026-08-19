@@ -3,6 +3,7 @@ title: "The Golden Plaice Named Stourgate's Best Chip Shop"
 date: 2026-08-14T09:00:00+01:00
 draft: false
 categories: ["Community"]
+image: "photo.jpg"
 caption: ""
 ---
 The Golden Plaice on Cinder Lane has been named Stourgate's best chip shop for the third year running, following a reader poll run by the Bugle.
