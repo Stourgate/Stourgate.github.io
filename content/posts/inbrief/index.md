@@ -19,7 +19,7 @@ caption: "Breaking or uninteresting stories."
 
 **Found**: Packet of tissues at La Cucuracha Mexican restaurant. Write to the Bugle describing them to claim.
 
-**Fly tipping** The Council have involved Kent Police in an investigation into fly-tipping in Cholsonly Woods. A mass grave with several hundred bodies and thousands of body parts was uncovered by a Woods coffee shop volunteer last week.
+**Fly tipping** The Council have involved East Kent Police in an investigation into fly-tipping in Cholsonly Woods. A mass grave with several hundred bodies and thousands of body parts was uncovered by a Woods coffee shop volunteer last week.
 
 **Darth Vader to visit Stourgate**. Darth Vader has commanded his top scientists to create a time machine/interstellar vehicle and he aims to visit Stourgate in it in November.
 

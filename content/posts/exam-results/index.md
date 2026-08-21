@@ -21,7 +21,7 @@ Stourgate's actual results, while an improvement, were nothing like as remarkabl
 <img src="artwork.jpg" alt="Rubbish aren't they?" title="Rubbish aren't they?" style="max-width:100%;height:auto;">
 <div class="caption">Six formers showing off their top art.</div>
 
-Mr Bobby made several attempts to contact someone, anyone, at Oxford to make the story true after the fact, eventually driving to the university on a Tuesday to explain himself in person. He was seen by a junior administrator in the car park, who confirmed there was no such verification scheme and had never heard of Stourgate Grammar School. He also tried to persuade his ex girlfriend who was Vice Chancellor of the univeristy but she refused.
+Mr Bobby made several attempts to contact someone, anyone, at Oxford to make the story true after the fact, eventually driving to the university on a Tuesday to explain himself in person. He was seen by a junior administrator in the car park, who confirmed there was no such verification scheme and had never heard of Stourgate Grammar School. He also tried to persuade his ex girlfriend who was Vice Chancellor of the university but she refused.
 
 With the local paper still running the story and governors asking questions, the school's chair of governors discovered there had been no university involvement at all and ordered the exhibition cancelled, telling Mr Bobby to consider his position and dismissing Mr Poppins on the spot. Mr Bobby, frustrated, said several things to Mr Poppins he later regretted, before deciding, on reflection, that the exhibition should go ahead regardless of what anyone from the governing body thought.
 

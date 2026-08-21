@@ -2,7 +2,8 @@
 title: "Fans Vote Steve Helman Most Hated Visiting Player In Club History"
 date: 2026-08-12T09:00:00+01:00
 draft: false
-categories: ["Sport"]
+categories: ["Community"]
+image: "photo.jpg"
 caption: ""
 ---
 Stourgate Town Supporters Club has voted Steve Helman the most hated visiting player in the club's history, ahead of a shortlist of six other long-standing rivals.

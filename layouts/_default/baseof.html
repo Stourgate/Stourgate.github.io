@@ -7,11 +7,9 @@
 <body>
 <div class="wrapper">
   {{ partial "header.html" . }}
-  <table class="content-table"><tr><td width="70%" valign="top">
+  <div class="content-main">
     {{ block "main" . }}{{ end }}
-  </td><td width="30%" valign="top">
-    {{ partial "sidebar.html" . }}
-  </td></tr></table>
+  </div>
   {{ partial "footer.html" . }}
 </div>
 </body>

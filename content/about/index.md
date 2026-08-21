@@ -54,7 +54,7 @@ The seafront remains the town's principal attraction, along with the Marina and 
 
 Just inland lies Dunton, best known for its industrial estate.
 
-Cholsonly Woods, and the small village of the same name beside it, sit further out and are currently the subject of a Kent Police investigation the council has described as "ongoing".
+Cholsonly Woods, and the small village of the same name beside it, sit further out and are currently the subject of an East Kent Police investigation the council has described as "ongoing".
 
 Further afield are West Ronton, Nether Eckwerp, birthplace of one of the dancers from Top of the Pops, West Linglangton, home of Kent's best annual psychic fest, and Frinkley on Sea, the less said about there the better.
 
