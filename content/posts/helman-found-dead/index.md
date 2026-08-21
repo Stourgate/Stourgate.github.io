@@ -1,5 +1,5 @@
 ---
-title: "Former Footballer Steve Helman Found Dead Outside Sainsbury's"
+title: "Former Footballer Steve Helman Found Dead Outside Kurtle's"
 date: 2026-08-25T09:00:00+01:00
 draft: false
 categories: ["Community"]

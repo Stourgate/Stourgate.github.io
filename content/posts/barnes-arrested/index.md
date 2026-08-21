@@ -1,12 +1,12 @@
 ---
-title: "Town's Longest-Serving Player Arrested Over Sainsbury's Death"
+title: "Town's Longest-Serving Player Arrested Over Helman Death"
 date: 2026-08-29T09:00:00+01:00
 draft: false
 categories: ["Community"]
 image: "photo.jpg"
 caption: ""
 ---
-Stourgate Town player Ray Barnes has been arrested in connection with the death of Steve Helman, who was found dead outside the Sainsbury's superstore on Stourgate Road earlier this month.
+Stourgate Town player Ray Barnes has been arrested in connection with the death of Steve Helman, who was found dead outside the Kurtle's superstore on Stourgate Road earlier this month.
 
 East Kent Police confirmed a 54-year-old man had been arrested on suspicion of murder and was being held for questioning. Officers declined to name the man formally, but the Bugle understands it to be Mr Barnes.
 
