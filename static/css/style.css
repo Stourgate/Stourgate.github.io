@@ -106,6 +106,7 @@ h2.headline {
   padding: 6px;
   font-size: 11px;
   overflow: hidden;
+  color: #000000;
 }
 .photo-placeholder {
   background-color: #C0C0C0;
