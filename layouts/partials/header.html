@@ -21,6 +21,7 @@
   {{ end }}
 {{ end }}
 
+{{ if not .IsHome }}
 <table class="nav-table"><tr>
   <td><a href="/">HOME</a></td>
   {{ $categories := slice
@@ -42,6 +43,7 @@
     {{ end }}
   {{ end }}
 </tr></table>
+{{ end }}
 <div class="hero-wrap">
   {{ partial "sidebar.html" . }}
   <div class="hero-photo"><img src="/images/hero.jpg" alt="Stourgate seafront" title="Stourgate seafront: ideal for swimming or body dumping."></div>
