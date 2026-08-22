@@ -4,7 +4,7 @@
 <title>{{ .Title }} - The Stourgate Bugle</title>
 <link rel="stylesheet" href="/css/style.css">
 </head>
-<body>
+<body{{ if .IsHome }} class="is-home"{{ end }}>
 <div class="wrapper{{ if .IsHome }} wrapper-modern{{ end }}">
   {{ partial "header.html" . }}
   <div class="content-main">

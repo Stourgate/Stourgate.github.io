@@ -269,44 +269,55 @@ hr.stars:before {
 }
 
 /* Front page only: clean modern override, rest of the site stays retro */
+body.is-home {
+  background-image: none;
+  background-color: #050505;
+}
 .wrapper-modern {
   background-image: none;
-  background-color: #fafafa;
-  border: none;
+  background-color: #111111;
+  border: 1px solid #2a2a2a;
   padding: 0;
   max-width: 640px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  color: #1a1a1a;
+  color: #c9c9c9;
+  box-shadow: 0 0 60px rgba(0, 0, 0, 0.8);
 }
 .wrapper-modern .content-main {
   background-color: transparent;
   border: none;
-  padding: 40px 24px;
+  padding: 48px 28px;
 }
 .wrapper-modern .content-main p {
-  line-height: 1.6;
+  line-height: 1.7;
   font-size: 16px;
+  color: #a8a8a8;
 }
 .wrapper-modern .content-main strong {
-  font-size: 26px;
-  font-weight: 600;
-  letter-spacing: 0.5px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: 1px;
   display: block;
-  margin-bottom: 8px;
+  margin-bottom: 12px;
+  color: #8a1f1f;
 }
 .wrapper-modern .headline {
   font-family: inherit;
   border-bottom: none;
-  font-size: 17px;
-  font-weight: 600;
-  margin: 24px 0 4px;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 22px 0 4px;
 }
 .wrapper-modern .headline a {
-  color: #1a4d8f;
+  color: #7a7a7a;
   text-decoration: none;
+  border-bottom: 1px solid #333;
+  padding-bottom: 1px;
 }
 .wrapper-modern .headline a:hover {
-  text-decoration: underline;
+  color: #c9c9c9;
+  border-bottom-color: #8a1f1f;
 }
 .wrapper-modern hr.stars {
   border: none;
@@ -317,5 +328,6 @@ hr.stars:before {
 }
 .wrapper-modern .front-hero {
   border: none;
-  border-radius: 6px;
+  border-radius: 2px;
+  filter: grayscale(85%) contrast(1.05) brightness(0.85);
 }
