@@ -27,7 +27,7 @@
 
   {{ if gt (len $oldPosts) 0 }}
   <details class="earlier-stories">
-    <summary>Show earlier stories from this capture</summary>
+    <summary>Show previous stories</summary>
     {{ range $oldPosts.ByDate.Reverse }}
       {{ if .Params.image }}
         <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
