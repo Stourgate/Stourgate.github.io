@@ -9,6 +9,6 @@ What follows is an archive of thestourgatebugle.co.uk, a defunct local newspaper
 
 [PLACEHOLDER, rewrite this bit]
 
-![Stourgate seafront](/images/hero.jpg)
+<img src="/images/hero.jpg" alt="Stourgate seafront" class="front-hero">
 
 Select a capture to view the site as it looked on that date.

@@ -5,12 +5,14 @@
 <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-<div class="wrapper">
+<div class="wrapper{{ if .IsHome }} wrapper-modern{{ end }}">
   {{ partial "header.html" . }}
   <div class="content-main">
     {{ block "main" . }}{{ end }}
   </div>
-  {{ partial "footer.html" . }}
+  {{ if not .IsHome }}
+    {{ partial "footer.html" . }}
+  {{ end }}
 </div>
 </body>
 </html>
