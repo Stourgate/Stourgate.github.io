@@ -23,17 +23,22 @@
   <hr class="stars">
 {{ end }}
 
-{{ range $oldPosts.ByDate.Reverse }}
-  {{ if .Params.image }}
-    <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
-      <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
-    </a>
-  {{ else }}
-    <div class="article-photo photo-placeholder">[ PHOTO ]</div>
+{{ if gt (len $oldPosts) 0 }}
+<details class="earlier-stories">
+  <summary>Show earlier stories from this capture</summary>
+  {{ range $oldPosts.ByDate.Reverse }}
+    {{ if .Params.image }}
+      <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
+        <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
+      </a>
+    {{ else }}
+      <div class="article-photo photo-placeholder">[ PHOTO ]</div>
+    {{ end }}
+    <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
+    <p>{{ .Summary }}</p>
+    <hr class="stars">
   {{ end }}
-  <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
-  <p>{{ .Summary }}</p>
-  <hr class="stars">
+</details>
 {{ end }}
 {{ end }}

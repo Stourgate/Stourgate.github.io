@@ -230,6 +230,13 @@ hr.stars:before {
   content: "★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★";
   color: #FFFF00;
 }
+.earlier-stories summary {
+  cursor: pointer;
+  color: #000080;
+  font-weight: bold;
+  font-family: "Times New Roman", serif;
+  padding: 6px 0;
+}
 .caption {
   font-size: 14px;
   color: #808080;

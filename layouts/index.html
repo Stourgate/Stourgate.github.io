@@ -2,7 +2,11 @@
 {{ .Content }}
 
 {{ range (where .Site.RegularPages "Section" "snapshots").ByParam "cutoff" }}
-  <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ if eq .Params.live true }}
+    <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ else }}
+    <h2 class="headline">{{ .Title }} (coming soon)</h2>
+  {{ end }}
   <hr class="stars">
 {{ end }}
 {{ end }}
