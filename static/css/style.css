@@ -300,7 +300,10 @@ body.is-home {
   letter-spacing: 1px;
   display: block;
   margin-bottom: 12px;
-  color: #8a1f1f;
+  color: #d14b4b;
+  text-shadow:
+    0 0 6px rgba(209, 75, 75, 0.8),
+    0 0 16px rgba(209, 75, 75, 0.4);
 }
 .wrapper-modern .headline {
   font-family: inherit;
