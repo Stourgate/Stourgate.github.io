@@ -44,7 +44,9 @@
   {{ end }}
 </tr></table>
 {{ end }}
+{{ if not .IsHome }}
 <div class="hero-wrap">
   {{ partial "sidebar.html" . }}
   <div class="hero-photo"><img src="/images/hero.jpg" alt="Stourgate seafront" title="Stourgate seafront: ideal for swimming or body dumping."></div>
 </div>
+{{ end }}

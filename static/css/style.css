@@ -237,6 +237,10 @@ hr.stars:before {
   font-family: "Times New Roman", serif;
   padding: 6px 0;
 }
+.content-main img {
+  max-width: 100%;
+  height: auto;
+}
 .caption {
   font-size: 14px;
   color: #808080;
