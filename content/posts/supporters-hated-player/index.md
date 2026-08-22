@@ -1,6 +1,6 @@
 ---
 title: "Fans Vote Steve Helman Most Hated Visiting Player In Club History"
-date: 2022-08-12T09:00:00+01:00
+date: 2022-07-12T09:00:00+01:00
 draft: false
 categories: ["Community"]
 image: "photo.jpg"

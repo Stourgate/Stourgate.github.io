@@ -1,0 +1,39 @@
+{{ define "main" }}
+<h2 class="headline">{{ .Title }}</h2>
+{{ .Content }}
+
+{{ $cutoff := time.AsTime .Params.cutoff }}
+{{ $prevCutoff := time.AsTime .Params.previous_cutoff }}
+{{ $posts := where .Site.RegularPages "Type" "posts" }}
+{{ $posts = where $posts "Date" "le" $cutoff }}
+{{ $newPosts := where $posts "Date" "gt" $prevCutoff }}
+{{ $oldPosts := where $posts "Date" "le" $prevCutoff }}
+
+{{ range $newPosts.ByDate.Reverse }}
+  {{ if .Params.image }}
+    <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
+      <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
+    </a>
+  {{ else }}
+    <div class="article-photo photo-placeholder">[ PHOTO ]</div>
+  {{ end }}
+  <h2 class="headline"><span class="new-gif">NEW</span> <a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
+  <p>{{ .Summary }}</p>
+  <hr class="stars">
+{{ end }}
+
+{{ range $oldPosts.ByDate.Reverse }}
+  {{ if .Params.image }}
+    <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
+      <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
+    </a>
+  {{ else }}
+    <div class="article-photo photo-placeholder">[ PHOTO ]</div>
+  {{ end }}
+  <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
+  <p>{{ .Summary }}</p>
+  <hr class="stars">
+{{ end }}
+{{ end }}

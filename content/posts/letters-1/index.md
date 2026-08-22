@@ -1,6 +1,6 @@
 ---
 title: "Letters To The Editor"
-date: 2022-08-08T09:30:00+01:00
+date: 2022-07-08T09:30:00+01:00
 draft: false
 categories: ["Letters"]
 image: "photo.jpg"

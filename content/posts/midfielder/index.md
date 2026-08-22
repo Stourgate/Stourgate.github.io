@@ -1,6 +1,6 @@
 ---
 title: "Stourgate Town player profile: Ray Barnes"
-date: 2022-08-12T09:05:00+01:00
+date: 2022-07-12T09:05:00+01:00
 draft: false
 categories: ["Sport"]
 image: "photo.jpg"

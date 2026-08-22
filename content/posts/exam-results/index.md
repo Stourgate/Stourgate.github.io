@@ -1,6 +1,6 @@
 ---
 title: "Grammar School Reports Record Exam Results"
-date: 2022-08-08T09:10:00+01:00
+date: 2022-07-08T09:10:00+01:00
 draft: false
 categories: ["Community"]
 image: "photo.jpg"
