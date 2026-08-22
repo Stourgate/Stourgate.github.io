@@ -1,15 +1,26 @@
 {{ define "main" }}
+{{ $capture := .Parent }}
+{{ $cutoff := time.AsTime $capture.Params.cutoff }}
+{{ $prevCutoff := time.AsTime $capture.Params.previous_cutoff }}
+{{ $term := .Params.category }}
+
 <h2 class="headline">{{ .Title }}</h2>
-{{ .Content }}
+<div class="byline">{{ $capture.Title }}</div>
 
-{{ $cutoff := time.AsTime .Params.cutoff }}
-{{ $prevCutoff := time.AsTime .Params.previous_cutoff }}
-{{ $posts := where .Site.RegularPages "Type" "posts" }}
-{{ $posts = where $posts "Date" "le" $cutoff }}
-{{ $newPosts := where $posts "Date" "gt" $prevCutoff }}
-{{ $oldPosts := where $posts "Date" "le" $prevCutoff }}
+{{ $termPages := index .Site.Taxonomies.categories $term }}
+{{ $pages := slice }}
+{{ range $termPages }}
+  {{ $pages = $pages | append .Page }}
+{{ end }}
+{{ $pages = where $pages "Date" "le" $cutoff }}
+{{ $newPages := sort (where $pages "Date" "gt" $prevCutoff) "Date" "desc" }}
+{{ $oldPages := sort (where $pages "Date" "le" $prevCutoff) "Date" "desc" }}
 
-{{ range $newPosts.ByDate.Reverse }}
+{{ if and (eq (len $newPages) 0) (eq (len $oldPages) 0) }}
+  <p>No stories filed under {{ .Title }} for this capture yet.</p>
+{{ end }}
+
+{{ range $newPages }}
   {{ if .Params.image }}
     <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
       <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
@@ -23,10 +34,10 @@
   <hr class="stars">
 {{ end }}
 
-{{ if gt (len $oldPosts) 0 }}
+{{ if gt (len $oldPages) 0 }}
 <details class="earlier-stories">
   <summary>Show earlier stories from this capture</summary>
-  {{ range $oldPosts.ByDate.Reverse }}
+  {{ range $oldPages }}
     {{ if .Params.image }}
       <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
         <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">

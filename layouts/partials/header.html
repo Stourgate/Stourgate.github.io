@@ -1,3 +1,26 @@
+{{ $captures := where (where .Site.Pages "Section" "snapshots") "Kind" "section" }}
+{{ $captures = where $captures "Params.cutoff" "!=" nil }}
+{{ $captures = $captures.ByParam "cutoff" }}
+
+{{ $currentCapture := "" }}
+{{ if and (eq .Type "snapshots") (.Params.cutoff) }}
+  {{ $currentCapture = . }}
+{{ else if and (eq .Type "snapshots") (.Parent) (.Parent.Params.cutoff) }}
+  {{ $currentCapture = .Parent }}
+{{ else if .Date }}
+  {{ $pageDate := .Date }}
+  {{ range $captures }}
+    {{ if and (not $currentCapture) (le $pageDate (time.AsTime .Params.cutoff)) }}
+      {{ $currentCapture = . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if not $currentCapture }}
+  {{ range (where $captures "Params.live" true) }}
+    {{ $currentCapture = . }}
+  {{ end }}
+{{ end }}
+
 <table class="nav-table"><tr>
   <td><a href="/">HOME</a></td>
   {{ $categories := slice
@@ -7,18 +30,17 @@
     (dict "name" "WHATS ON" "term" "whatson")
     (dict "name" "LETTERS" "term" "letters")
     (dict "name" "FEATURES" "term" "features")
+    (dict "name" "PUZZLES" "term" "puzzles")
+    (dict "name" "CLASSIFIEDS" "term" "classifieds")
+    (dict "name" "ABOUT" "term" "about")
   }}
   {{ range $categories }}
-    {{ $pages := index $.Site.Taxonomies.categories .term }}
-    {{ if eq (len $pages) 1 }}
-      <td><a href="{{ (index $pages 0).Page.RelPermalink }}">{{ .name }}</a></td>
+    {{ if $currentCapture }}
+      <td><a href="{{ $currentCapture.RelPermalink }}{{ .term }}/">{{ .name }}</a></td>
     {{ else }}
-      <td><a href="/categories/{{ .term }}/">{{ .name }}</a></td>
+      <td>{{ .name }}</td>
     {{ end }}
   {{ end }}
-  <td><a href="/puzzles/">PUZZLES</a></td>
-  <td><a href="/classifieds/">CLASSIFIEDS</a></td>
-  <td><a href="/about/">ABOUT</a></td>
 </tr></table>
 <div class="hero-wrap">
   {{ partial "sidebar.html" . }}

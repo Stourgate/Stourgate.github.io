@@ -1,6 +1,7 @@
 ---
 title: "About Stourgate"
-date: 2022-08-08T10:15:00+01:00
+date: 2022-07-08T10:15:00+01:00
+categories: ["About"]
 draft: false
 ---
 Everything you need to know about Stourgate, the jewel of East Kent (this is just the editor's opinion and Bugle Nespapers and Towels Ltd make no representation, warranty, or guarantee, express or implied, as to the accuracy of the above, and accept no liability for any loss, damage, disappointment arising from a visit made on the strength of it).

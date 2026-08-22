@@ -2,7 +2,7 @@ baseURL = "https://Stourgate.github.io/"
 languageCode = "en-gb"
 title = "The Stourgate Bugle"
 [permalinks]
-  posts = "/posts/:slug/"
+  posts = "/posts/:filename/"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

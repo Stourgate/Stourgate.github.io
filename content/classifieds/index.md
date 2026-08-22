@@ -1,6 +1,7 @@
 ---
 title: "Classifieds"
-date: 2022-08-08T10:00:00+01:00
+date: 2022-07-08T10:00:00+01:00
+categories: ["Classifieds"]
 draft: false
 image: "photo.jpg"
 caption: "Buy, sell, make use of, take on holiday, put in fridge or toilet."
