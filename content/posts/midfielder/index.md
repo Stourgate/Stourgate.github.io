@@ -1,6 +1,6 @@
 ---
 title: "Stourgate Town player profile: Ray Barnes"
-date: 2026-08-12T09:05:00+01:00
+date: 2022-08-12T09:05:00+01:00
 draft: false
 categories: ["Sport"]
 image: "photo.jpg"
@@ -22,7 +22,7 @@ Ray played every game for Town for a seven year period. 'It were great back then
 <img src="fightteammates.jpg" alt="Ray and other useless players." title="Ray and other useless players." style="max-width:100%;height:auto;">
 <div class="caption">Ray organising Stourgate's midfield.</div>
 
-We asked him if he had any regrets. 'Not really I mean I had a great time and all. Although I wish I'd got Helman back.' Steve Helman's wild tackle had badly injured Ray in a league cup match in 1992. 'I couldn't play for a year after that tackle. Bastard. I'd forgotten about that. I'm gonna get that \*\*\*\*ing \*\*\*\*.'
+We asked him if he had any regrets. 'Not really I mean I had a great time and all. Although I wish I'd got Helman back.' Steve Helman's wild tackle had badly injured Ray in a league cup match in 1988. 'I couldn't play for a year after that tackle. Bastard. I'd forgotten about that. I'm gonna get that \*\*\*\*ing \*\*\*\*.'
 
 <img src="fightoaps.jpg" alt="What else would they do anyway? Probably just stare into the distance." title="What else would they do anyway? Probably just stare into the distance." style="max-width:100%;height:auto;">
 <div class="caption">Loyal son Ray visiting his dad in a care home.</div>

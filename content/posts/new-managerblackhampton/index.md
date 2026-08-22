@@ -1,6 +1,6 @@
 ---
 title: "Blackhampton Wanderers Announce New Manager"
-date: 2026-08-10T09:05:00+01:00
+date: 2022-08-10T09:05:00+01:00
 draft: false
 categories: ["Sport"]
 image: "photo.jpg"

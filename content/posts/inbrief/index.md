@@ -1,6 +1,6 @@
 ---
 title: "Stourgate In Brief"
-date: 2026-08-08T09:25:00+01:00
+date: 2022-08-08T09:25:00+01:00
 draft: false
 categories: ["inbrief"]
 image: "photo.jpg"

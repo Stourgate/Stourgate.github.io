@@ -1,6 +1,6 @@
 ---
 title: "About Stourgate"
-date: 2026-08-08T10:15:00+01:00
+date: 2022-08-08T10:15:00+01:00
 draft: false
 ---
 Everything you need to know about Stourgate, the jewel of East Kent (this is just the editor's opinion and Bugle Nespapers and Towels Ltd make no representation, warranty, or guarantee, express or implied, as to the accuracy of the above, and accept no liability for any loss, damage, disappointment arising from a visit made on the strength of it).
@@ -59,7 +59,7 @@ Cholsonly Woods, and the small village of the same name beside it, sit further o
 Further afield are West Ronton, Nether Eckwerp, birthplace of one of the dancers from Top of the Pops, West Linglangton, home of Kent's best annual psychic fest, and Frinkley on Sea, the less said about there the better.
 
 **Twinning**
-Stourgate is officially twinned with a small town in Belgium, Brussels. Talks to establish a second twinning arrangement with a town in France collapsed in 2019 after the French delegation left early and did not respond to further correspondence.
+Stourgate is officially twinned with a small town in Belgium, Brussels. Talks to establish a second twinning arrangement with a town in France collapsed in 2015 after the French delegation left early and did not respond to further correspondence.
 
 **Local Legends**
 
@@ -71,7 +71,7 @@ The town's coat of arms depicts a herring, a set of bed valances, and a Latin mo
 <img src="coatofarms.jpg" alt="Stourgate coat of arms." title="Stourgate coat of arms." style="max-width:100%;height:auto;">
 <div class="caption">Stourgate's coat of arms is a bit rubbish.</div>
 
-In 1997 the town's badge was controversially rebranded with the fiancial assistance of a local business.
+In 1993 the town's badge was controversially rebranded with the fiancial assistance of a local business.
 <img src="coatofarmsRebrand.jpg" alt="Stourgate's modern coat of arms." title="Stourgate's better coat of arms. It IS better. Fuck off." style="max-width:100%;height:auto;">
 <div class="caption">Stourgate's coat of arms a much better version.</div>
 

@@ -1,6 +1,6 @@
 ---
 title: "Classifieds"
-date: 2026-08-08T10:00:00+01:00
+date: 2022-08-08T10:00:00+01:00
 draft: false
 image: "photo.jpg"
 caption: "Buy, sell, make use of, take on holiday, put in fridge or toilet."
@@ -74,11 +74,11 @@ BTS conversion - convert all your unwanted Korean shit BTS records and memorabil
 
 **MOTORS**
 
-Vauxhall Astra, 2009, one careful owner, converted for easy wheelchair access and for Pope to greet crowds. MOT March. £850. (Box 1401)
+Vauxhall Astra, 2005, one careful owner, converted for easy wheelchair access and for Pope to greet crowds. MOT March. £850. (Box 1401)
 
-Nissan Note, 2005, new 8 litre engine, 0 to 60 in 3 seconds, beaded seat cover. £18,750. Dunton. (Box 1402)
+Nissan Note, 2001, new 8 litre engine, 0 to 60 in 3 seconds, beaded seat cover. £18,750. Dunton. (Box 1402)
 
-Vauxhall Meriva, 2012, lots of history: previously owned by Lady Diana who bought it from Hulk Hogan. £1250 ONO. Stourgate. (Box 1403)
+Vauxhall Meriva, 2008, lots of history: previously owned by Lady Diana who bought it from Hulk Hogan. £1250 ONO. Stourgate. (Box 1403)
 
 ---
 
@@ -122,7 +122,7 @@ Couple seeks closed minded goat. West Ronton. (Box 1505)
 
 **DECORATIVE EDGE MULTIVERSE** - Somewhere out there is the frill of your dreams. We stock it, in every dimension, in stock now at our unit behind the retail park. Send Stamped Addressed (to whichever version of you you are) Envelope for sample. (Box 1603)
 
-**VALANCE NATION** - Home of the double-box-pleat since 1994. Ask about our loyalty card. No samples, sorry. (Box 1604)
+**VALANCE NATION** - Home of the double-box-pleat since 1990. Ask about our loyalty card. No samples, sorry. (Box 1604)
 
 **THE FRILL OUTLET** - Trade prices for the public. No returns on bespoke gathers. Send sample for Stamped Addressed Envelope. (Box 1605)
 
