@@ -11,4 +11,4 @@ What follows is an archive of thestourgatebugle.co.uk, a defunct local newspaper
 
 <img src="/images/hero.jpg" alt="Stourgate seafront" class="front-hero">
 
-Select a capture to view the site as it looked on that date.
+Select a capture to view the site as it looked around that time. Dates are approximate.
