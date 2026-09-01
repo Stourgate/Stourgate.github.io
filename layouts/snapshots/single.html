@@ -1,0 +1,55 @@
+{{ define "main" }}
+{{ $capture := .Parent }}
+{{ $cutoff := time.AsTime $capture.Params.cutoff }}
+{{ $prevCutoff := time.AsTime $capture.Params.previous_cutoff }}
+{{ $term := .Params.category }}
+
+<h2 class="headline">{{ .Title }}</h2>
+<div class="byline">{{ $capture.Title }}</div>
+
+{{ $termPages := index .Site.Taxonomies.categories $term }}
+{{ $pages := slice }}
+{{ range $termPages }}
+  {{ $pages = $pages | append .Page }}
+{{ end }}
+{{ $pages = where $pages "Date" "le" $cutoff }}
+{{ $newPages := sort (where $pages "Date" "gt" $prevCutoff) "Date" "desc" }}
+{{ $oldPages := sort (where $pages "Date" "le" $prevCutoff) "Date" "desc" }}
+
+{{ if and (eq (len $newPages) 0) (eq (len $oldPages) 0) }}
+  <p>No stories filed under {{ .Title }} for this capture yet.</p>
+{{ end }}
+
+{{ range $newPages }}
+  {{ if .Params.image }}
+    <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
+      <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
+    </a>
+  {{ else }}
+    <div class="article-photo photo-placeholder">[ PHOTO ]</div>
+  {{ end }}
+  <h2 class="headline"><span class="new-gif">NEW</span> <a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
+  <p>{{ .Summary }}</p>
+  <hr class="stars">
+{{ end }}
+
+{{ if gt (len $oldPages) 0 }}
+<details class="earlier-stories">
+  <summary>Show previous stories</summary>
+  {{ range $oldPages }}
+    {{ if .Params.image }}
+      <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
+        <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
+      </a>
+    {{ else }}
+      <div class="article-photo photo-placeholder">[ PHOTO ]</div>
+    {{ end }}
+    <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
+    <p>{{ .Summary }}</p>
+    <hr class="stars">
+  {{ end }}
+</details>
+{{ end }}
+{{ end }}

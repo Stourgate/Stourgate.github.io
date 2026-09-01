@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ .Title }} - The Stourgate Bugle</title>
+<link rel="stylesheet" href="/css/style.css">
+{{ if .Description }}
+<meta name="description" content="{{ .Description }}">
+{{ else if .IsHome }}
+<meta name="description" content="Archive of The Stourgate Bugle, a defunct Kent local newspaper taken offline following the events in Stourgate. Browse recovered captures of the site.">
+{{ else if .IsPage }}
+<meta name="description" content="{{ .Summary | plainify | truncate 155 }}">
+{{ else }}
+<meta name="description" content="Archive of The Stourgate Bugle, a defunct Kent local newspaper.">
+{{ end }}
+{{ $captures := where (where .Site.Pages "Section" "snapshots") "Kind" "section" }}
+{{ $captures = where $captures "Params.cutoff" "!=" nil }}
+{{ $captures = $captures.ByParam "cutoff" }}
+{{ $currentCapture := "" }}
+{{ if and (eq .Type "snapshots") (.Params.cutoff) }}
+  {{ $currentCapture = . }}
+{{ else if and (eq .Type "snapshots") (.Parent) (.Parent.Params.cutoff) }}
+  {{ $currentCapture = .Parent }}
+{{ else if .Date }}
+  {{ $pageDate := .Date }}
+  {{ range $captures }}
+    {{ if and (not $currentCapture) (le $pageDate (time.AsTime .Params.cutoff)) }}
+      {{ $currentCapture = . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $hiddenCapture := false }}
+{{ if and $currentCapture (not $currentCapture.Params.live) }}
+  {{ $hiddenCapture = true }}
+{{ end }}
+{{ if or (eq .Kind "taxonomy") (eq .Kind "term") (and (eq .Kind "section") (eq .Type "posts")) $hiddenCapture }}
+<meta name="robots" content="noindex">
+{{ end }}
+</head>
+<body{{ if .IsHome }} class="is-home"{{ end }}>
+<div class="wrapper{{ if .IsHome }} wrapper-modern{{ end }}">
+  {{ partial "header.html" . }}
+  <div class="content-main">
+    {{ block "main" . }}{{ end }}
+  </div>
+  {{ if not .IsHome }}
+    {{ partial "footer.html" . }}
+  {{ end }}
+</div>
+</body>
+</html>

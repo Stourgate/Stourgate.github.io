@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{ .Content }}
+
+{{ $captures := where (where .Site.Pages "Section" "snapshots") "Kind" "section" }}
+{{ $captures = where $captures "Params.cutoff" "!=" nil }}
+{{ range $captures.ByParam "cutoff" }}
+  {{ if eq .Params.live true }}
+    <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{ else }}
+    <h2 class="headline">{{ .Title }} (coming soon)</h2>
+  {{ end }}
+  <hr class="stars">
+{{ end }}
+{{ end }}

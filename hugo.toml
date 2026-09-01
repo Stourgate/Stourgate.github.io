@@ -1,0 +1,9 @@
+baseURL = "https://stourgatebugle.co.uk/"
+languageCode = "en-gb"
+title = "The Stourgate Bugle"
+[permalinks]
+  posts = "/posts/:filename/"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
