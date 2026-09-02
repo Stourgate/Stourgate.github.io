@@ -36,7 +36,7 @@ Justin, singer of the Darkness made the love sign. Must be a messed up shithead 
 
 1. If it takes 2 men eight days to dig a hole, how big is it?
 2. There is only one word in the English language that rhymes with cat. What is it?
-3. Alice and Jack are at a dinner party with two other couples, Bob and Bob and Bob and Bob. No one called Bob is allowed to sit next to another Bob, no woman can sit at the table, all diners must be left handed, each couple must sit tangentially opposed to each other. Where does Jack sit?
+3. Alice and Jack are at a dinner party with two other couples, Bob and Bob and Bob and Bob. No one called Bob is allowed to sit next to another Bob, no woman can sit at the table, all diners must be left handed, each couple must sit tangentially opposed to each other. Are you happy with your stupid rules?
 4. How many Reform voters does it take to screw in a light bulb?
 
 ---
@@ -62,23 +62,23 @@ Prize: luxury cruise for 18 people on the River Stour, alight Grove Ferry, disem
 
 **ACROSS**
 
-1. Anarcho-Punk band (8)
-2. Band split evenly over manager's start, then split again over its cubicle's opening (4,3,4,7)
-3. SGS headmaster, first name (3)
-4. Stourgate's serially relegated new manager, first name (3)
-5. Stourgate Town's home ground (6)
-6. Band mangles bashful filth maniac (4,3,4,7)
-7. Anarcho-punk band (5)
-8. Ian Lees (6)
+6. Anarcho-Punk band (8)
+7. Band split evenly over manager's start, then split again over its cubicle's opening (4,3,4,7)
+9. SGS headmaster, first name (3)
+10. Stourgate's serially relegated new manager, first name (3)
+11. Stourgate Town's home ground (6)
+12. Band mangles bashful filth maniac (4,3,4,7)
+13. Anarcho-punk band (5)
+14. Ian Lees (6)
 
 **DOWN**
 
 1. What the RSPCA marksman was doing while waiting for the dog to reappear (12)
-2. Band who get knocked down, but get up again. Actually that is not true because they split up. So try:  Anarcho-Punk band (11)
+2. Band who get knocked down, but get up again. Actually that is not true because they split up. So try: Anarcho-Punk band (11)
 3. What's allegedly in the marina after the alien crash (6,4)
 4. The opposite of is heavily but also the same thing (3,7)
 5. Rancid shithole (6)
-6. God's favourite town (9)
+8. God's favourite town (9)
 
 ---
 
@@ -94,7 +94,7 @@ Prize: luxury cruise for 18 people on the River Stour, alight Grove Ferry, disem
 
 3. GENERAL KNOWLEDGE - all the answers were 7.
 
-4. BRAIN TEASERS - 1. olive oil. 2. Cheeeeep. 3. Yes 4. You looking at me? 5. Come one then if you think you're hard enough.
+4. BRAIN TEASERS - 1. olive oil. 2. Cheeeeep. 3. Yes 4. You looking at me? 5. Come on then if you think you're hard enough.
 
 5. ARTISTIC BATTLESHIPS - winner was Mrs Olive Trabezant who depicted A4 in yellow.
 

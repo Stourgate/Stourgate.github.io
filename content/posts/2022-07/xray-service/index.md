@@ -6,14 +6,13 @@ categories: ["Community"]
 image: "photo.jpg"
 caption: "Layabouts complaining."
 ---
-On Tuesday morning Maggie Hawkins and Dave boulder was stood outside Stourgate NHS trust. They have been there for a whole week. Protesting the hospital's decision to close its x-ray department. 
-"If we don't stand up for this who will" said Maggie.
+On Tuesday morning Maggie Hawkins and Dave Boulder were stood outside Stourgate NHS trust. They have been there for a whole week protesting the hospital's decision to close its x-ray department. 
+"If we don't stand up for this, who will?" said Maggie.
 
-A spokesman for the hospital, Dave Pearson said that the reason the x-rays parlour was closed was that there was a bomb made of adantium and Spider-Man said radiation could cause it to explode. 
+A spokesman for the hospital, Dave Pearson said that the reason the x-ray department was closed was that there was a bomb made of adantium inside and Spider-Man said radiation could cause it to explode. 
 
 <img src="xray.jpg" alt="These machines save lives." title="These machines save lives." style="max-width:100%;height:auto;">
 <div class="caption">An XRay machine in happier times.</div>
-
 
 "That's absolute nonsense," said Maggie."Bombs made of adantium are hardly likely to end up in Stourgate x-ray department. In fact, the last time there was one here, it was in the canteen miles away from the X-ray machines." Maggie, an unemployed lesbian layabout  was cautioned by a police constable, Dave Jennings when she tried to stop hospital staff from entering the building by hitting them around their head with her placard.
 

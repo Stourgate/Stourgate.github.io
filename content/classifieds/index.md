@@ -7,7 +7,7 @@ image: "photo.jpg"
 caption: "Buy, sell, make use of, take on holiday, put in fridge or toilet."
 ---
 
-*All replies should be addressed to the box number shown, c/o The Stourgate Bugle office. The Bugle accepts no responsibility for the contents of any reply, box, or elephant.*
+*All replies should be addressed to the box number shown, c/o The Stourgate Bugle office. The Bugle accepts no responsibility for the contents of any reply, or for anything really. Well some things, I mean we were responsible for that accident last week and we said we were. Oh come on you were all supportive back then and now listen to you. No **** you.*
 
 ---
 
@@ -21,9 +21,9 @@ Medium sized elephant. Answers to the name of Monkey Chip Shop. £8.50. East Sto
 
 Large collection of small collections. Each contains various things including large collections of large collections, average collections of small collections etc. Sold as seen. 12p. East Kilbride. (Box 1007)
 
-Rocket powered car. Ford Escort XR3i with 6 large firework rockets either side. £750. Dunton. (Box 1008)
+Rocket powered car. Ford Escort XR3i with 6 large firework rockets either side, most still unlit. £750. Dunton. (Box 1008)
 
-Tea cosy album cover: put your favourite album cover on a tea cosy. Available: Michael Jackson - Thriller, Taylor Swift - Hobgoblin Cyclone, Crucifucks - first album or Wisconsin (sold out).
+Tea cosy album cover: put your favourite album cover on a tea cosy. Available: Michael Jackson - Thriller, Taylor Swift - Hobgoblin Cyclone, Cruci****s - first album or Wisconsin (sold out).
 
 House roof. Buyer must collect. £10. Dunton. (Box 10081)
 
