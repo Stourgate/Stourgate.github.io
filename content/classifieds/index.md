@@ -135,8 +135,6 @@ Private collector seeks souls, any condition, will collect same evening. Serious
 
 WANTED: assorted body parts for ongoing research. Collection arranged at your convenience. No questions asked, no receipts issued. (Box 1702)
 
-Ghost hunting services, all hours - Ed Davies, fully insured*, no spirit too stubborn, discretion guaranteed. *not actually insured. (Box 1703)
-
 Tarot readings, Tuesdays only, second Tuesday of the month excepted due to bin collection. (Box 1704)
 
 Psychic spirit readings. I can talk to your dead relatives, pets etc. It doesn't matter how dead they are I can give you closure. £40 for one hour chat with the dead. Half dead £35. Evil spirits £10 extra. West Linglangton. (Box 1705)
