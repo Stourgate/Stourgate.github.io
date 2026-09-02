@@ -22,17 +22,17 @@ Regards, Colonel James Harrington (retd), Stourgate.
 **Dear Editor,**
 I read with interest last week's editorial and I couldn't **agree** more. A new car park will attract all sorts and bring prosperity to the town, possibly the like never seen before.
 
-I expect with a new car park we will probably see the influx of major investment such as a tea room, **public toilets** or a several-hundred-acre theme park, rivalling the likes of Alton Towers or Europa-Park in scale, with a dozen major rollercoasters, multiple log flumes and water rides, a huge dark-ride pavilion, a full ghost train complex, go-kart tracks, an animal park, several themed lands, hotels on site, and its own dedicated rail link. 
+I expect with a new car park we will probably see the influx of major investment such as a tea room, **public toilets** or a several-hundred-acre theme park, rivalling the likes of Alton Towers or Disneyland in scale, with a dozen major rollercoasters, multiple log flumes and water rides, a huge dark-ride pavilion, a full ghost train complex, go-kart tracks, an animal park, several themed lands, hotels on site, and its own dedicated rail link. 
 
 Regards,
-Tom Faak, East Dunton.
+Tom Mary, East Dunton.
 
 ---
 **Dear Editor,**
 Your editorial last week caused a lot of debate at the **Stourgate Nettle Factory Social Club**.
 There were a lot of passionate supporters and an equal number of those opposed. Sadly a fight broke out leading to several deaths and serious injuries.
 
-Looking forward to see what happens to the car park eventually **though**.
+Looking forward to see what happens to the car park eventually though.
 
 Regards,
 Jane Lightside, Nether Eckwerp.
