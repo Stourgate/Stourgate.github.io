@@ -16,9 +16,9 @@ Seaview Scoops has recently reopened after a closure for health reasons, Nolan's
 |---|---|---|---|---|---|
 | Seaview Scoops | Soft serve, 99 Flake | £3.50 | 4 | 1 | 0 |
 | Nolan's | Soft serve, 99 Flake | £3.20 | 5 | 0 | 0 |
-| The Kettle | Soft serve, 99 Flake | £4.50 | 3 | 2 | 0 |
+| The Kettle | Soft serve, 99 Flake | £4.50 | 3 | 2 | 0.5 |
 | Tesco Express  | Big Feast | £1.85 | 9 | 0 | 0 |
 
-The Tesco Express Big Feast scored highest with 9 out of 10. As reliable as ever. Nolan's scored 5, the flake arriving with a trace of grit near the base of the cone, and the ice cream tasted a little cheesy. Seaview Scoops scored 4, with a single hair found partway through and the ice cream having a strong odour of fish. The Kettle scored lowest with 3, the flake containing what appeared to be a fragment of a throat lozenge and a small strip of plaster and it tasted like window putty.
+The Tesco Express Big Feast scored highest with 9 out of 10. As reliable as ever. Nolan's scored 5, the flake arriving with a trace of grit near the base of the cone, and the ice cream tasted a little cheesy. Seaview Scoops scored 4, with a single hair found partway through and the ice cream having a strong odour of fish. The Kettle scored lowest with 3, the flake containing what appeared to be a fragment of a throat lozenge and a small strip of plaster and it tasted like window putty. There was also half a dead rat in the free gift box given away with every Kettle purchase although this was not tasted.
 
 Overall, all three local outlets showed a marked improvement on last year's ratings, though each remains a little behind the Tesco offering.

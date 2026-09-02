@@ -5,7 +5,7 @@ draft: false
 
 **THE TRAGEDY OF STOURGATE**
 
-What follows is an archive of thestourgatebugle.co.uk, taken offline following the horrific events that befell Stourgate. The captures below are what could be recovered.
+What follows is an archive of stourgatebugle.co.uk, taken offline following the horrific events that befell Stourgate. The captures below are what could be recovered.
 
 Some material has been withheld out of respect for the dead and their families.
 
