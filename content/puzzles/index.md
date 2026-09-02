@@ -62,23 +62,35 @@ Prize: luxury cruise for 18 people on the River Stour, alight Grove Ferry, disem
 
 **ACROSS**
 
-6. Anarcho-Punk band (8)
-7. Band split evenly over manager's start, then split again over its cubicle's opening (4,3,4,7)
-9. SGS headmaster, first name (3)
-10. Stourgate's serially relegated new manager, first name (3)
-11. Stourgate Town's home ground (6)
-12. Band mangles bashful filth maniac (4,3,4,7)
-13. Anarcho-punk band (5)
-14. Ian Lees (6)
+6\. Anarcho-Punk band (8)
+
+7\. Band split evenly over manager's start, then split again over its cubicle's opening (4,3,4,7)
+
+9\. SGS headmaster, first name (3)
+
+10\. Stourgate's serially relegated new manager, first name (3)
+
+11\. Stourgate Town's home ground (6)
+
+12\. Band mangles bashful filth maniac (4,3,4,7)
+
+13\. Anarcho-punk band (5)
+
+14\. Ian Lees (6)
 
 **DOWN**
 
-1. What the RSPCA marksman was doing while waiting for the dog to reappear (12)
-2. Band who get knocked down, but get up again. Actually that is not true because they split up. So try: Anarcho-Punk band (11)
-3. What's allegedly in the marina after the alien crash (6,4)
-4. The opposite of is heavily but also the same thing (3,7)
-5. Rancid shithole (6)
-8. God's favourite town (9)
+1\. What the RSPCA marksman was doing while waiting for the dog to reappear (12)
+
+2\. Band who get knocked down, but get up again. Actually that is not true because they split up. So try: Anarcho-Punk band (11)
+
+3\. What's allegedly in the marina after the alien crash (6,4)
+
+4\. The opposite of is heavily but also the same thing (3,7)
+
+5\. Rancid shithole (6)
+
+8\. God's favourite town (9)
 
 ---
 
