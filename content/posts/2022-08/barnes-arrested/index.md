@@ -8,7 +8,7 @@ caption: ""
 ---
 Stourgate Town player Ray Barnes has been arrested in connection with the death of Steve Helman, who was found dead outside the Kurtle's superstore on Stourgate Road earlier this month.
 
-East Kent Police confirmed a 54-year-old man had been arrested on suspicion of murder and was being held for questioning. Officers declined to name the man formally, but the Bugle understands it to be Mr Barnes.
+East Kent Police confirmed a 54-year-old man had been arrested on suspicion of murder and was being held for questioning. Officers declined to name the man formally, but the Bugle understands it to be Mr Barnes. I mean you can see him in the photo above FFS.
 
 Stourgate Town said in a brief statement that it was "aware of the situation" and would not be commenting further while enquiries were ongoing. Mr Barnes has been Town's longest-serving player, having joined the club in the early 2000s.
 
