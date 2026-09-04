@@ -2,7 +2,7 @@
 <h2 class="headline">{{ .Title }}</h2>
 {{ if .Params.image }}
 <figure class="article-photo-large">
-  <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" title="{{ .Title }}">
+  <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" title="{{ if .Params.caption }}{{ .Params.caption }}{{ else }}{{ .Title }}{{ end }}">
   {{ if .Params.caption }}<figcaption class="caption">{{ .Params.caption }}</figcaption>{{ end }}
 </figure>
 {{ else }}
@@ -11,5 +11,3 @@
 <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
 {{ .Content }}
 {{ end }}
-
-
