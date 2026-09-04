@@ -12,7 +12,7 @@ The dealership, based just outside Dunton, is owned and run by Helen Saunders, w
 
  The forecourt has traded from the same site on the Dunton Industrial Estate for eleven years and currently carries around forty motorhomes across new and used stock, ranging from small campervan conversions to full six-berth models. Ms Saunders said the offer was a way of giving something back to the town. "I might be based in Dunton but Stourgate is where my heart is," she said.
 
-<img src="helen2.jpg" alt="Helen Saunders." title="Helen Saunders." style="max-width:100%;height:auto;">
+<img src="helen2.jpg" alt="What is she wearing?" title="What is she wearing? Looks like a sack." style="max-width:100%;height:auto;">
 <div class="caption">Motorhome sales lady.</div>
 Among the new arrivals is the Solara Trekmaster Dead Kennedys Special Edition, priced at £84,950, which features a slide. Ms Saunders said the model had already attracted interest since arriving on the forecourt.
 <img src="DKexterior.jpg" alt="Holiday in Cambodia in this." title="Holiday in Cambodia in this." style="max-width:100%;height:auto;">

@@ -43,7 +43,7 @@ These days you've got the Stourgate Sands Caravan Park sitting right on top of t
 
 **Modern Stourgate**
 <img src="map.jpg" alt="Stourgate region of Kent." title="Stourgate region of Kent obviously." style="max-width:100%;height:auto;">
-<div class="caption">"I wouldn't come here if I were you."</div>
+<div class="caption">I wouldn't come here if I were you.</div>
 
 Today Stourgate is home to just over twenty four thousand people, one marina, one pier, one planned bypass, and one football club.
 
@@ -64,7 +64,7 @@ Stourgate is officially twinned with a small town in Belgium, Brussels. Talks to
 
 **Local Legends**
 
-[spaceholder]
+[placeholder]
 
 **Coat of Arms**
 
