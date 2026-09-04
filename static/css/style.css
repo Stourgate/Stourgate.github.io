@@ -135,8 +135,11 @@ h2.headline {
 .article-item {
   display: flex;
   gap: 10px;
-  margin-bottom: 10px;
   align-items: flex-start;
+  border: 1px solid #A0A0A0;
+  background-color: #FFFFFF;
+  padding: 8px;
+  margin-bottom: 10px;
 }
 .article-photo {
   flex-shrink: 0;
@@ -228,7 +231,7 @@ hr.stars {
 }
 hr.stars:before {
   content: "★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★";
-  color: #FFFF00;
+  color: #B8860B;
 }
 .earlier-stories summary {
   cursor: pointer;
@@ -289,6 +292,13 @@ hr.stars:before {
   }
   .hero-photo {
     height: 150px;
+  }
+  .article-item {
+    flex-direction: column;
+  }
+  .article-photo {
+    width: 100%;
+    max-width: 100%;
   }
 }
 

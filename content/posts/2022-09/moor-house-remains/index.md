@@ -4,7 +4,7 @@ date: 2022-09-19T09:00:00+01:00
 draft: false
 categories: ["Community"]
 image: "photo.jpg"
-caption: "Police speak to thugs."
+caption: "Gosh, what a whopper!"
 ---
 Human remains have been discovered during a structural survey at Stourgate Moor House, the former psychiatric hospital on Cinder Lane that has stood empty since 1987.
 
