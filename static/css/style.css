@@ -221,9 +221,16 @@ h2.headline {
 }
 .footer {
   text-align: center;
-  color: #FFFFFF;
-  font-size: 10px;
+  color: #202020;
+  font-size: 11px;
   padding: 10px;
+}
+.footer a {
+  color: #000080;
+  font-weight: bold;
+}
+.footer a:hover {
+  color: #FF00FF;
 }
 hr.stars {
   border: none;
