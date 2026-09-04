@@ -4,7 +4,7 @@ date: 2022-08-25T09:00:00+01:00
 draft: false
 categories: ["Community"]
 image: "photo.jpg"
-caption: ""
+caption: "It's about time."
 ---
 Former non-league footballer Steve Helman has been found dead outside the Kurtle's Vacuum World superstore on Stourgate Road in what police are treating as an unexplained death.
 

@@ -3,8 +3,6 @@ title: "About Stourgate"
 date: 2022-07-08T10:15:00+01:00
 categories: ["About"]
 draft: false
-image: ""
-caption: "I wouldn't come here if I were you."
 ---
 Everything you need to know about Stourgate, the jewel of East Kent (this is just the editor's opinion and Bugle Newspapers and Towels Ltd make no representation, warranty, or guarantee, express or implied, as to the accuracy of the above, and accept no liability for any loss, damage, disappointment arising from a visit made on the strength of it).
 
@@ -45,7 +43,7 @@ These days you've got the Stourgate Sands Caravan Park sitting right on top of t
 
 **Modern Stourgate**
 <img src="map.jpg" alt="Stourgate region of Kent." title="Stourgate region of Kent obviously." style="max-width:100%;height:auto;">
-<div class="caption">Top class modern map of Stourgate.</div>
+<div class="caption">"I wouldn't come here if I were you."</div>
 
 Today Stourgate is home to just over twenty four thousand people, one marina, one pier, one planned bypass, and one football club.
 

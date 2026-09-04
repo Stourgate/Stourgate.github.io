@@ -4,7 +4,7 @@ date: 2022-09-02T09:00:00+01:00
 draft: false
 categories: ["features"]
 image: "photo.jpg"
-caption: ""
+caption: "Helen blocking the view of over priced van."
 ---
 Dunton Motorhomes is offering Stourgate Town supporters a discount on all new and used motorhomes this month, as part of a new partnership with the club.
 

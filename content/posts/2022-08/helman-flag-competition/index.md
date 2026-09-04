@@ -4,7 +4,7 @@ date: 2022-08-27T09:00:00+01:00
 draft: false
 categories: ["Sport", "features"]
 image: "photo.jpg"
-caption: ""
+caption: "That flag is straight out but it doesn't look windy."
 ---
 The Stourgate Town Supporters Club is running a competition this week to give away a limited run of "We Hate Helman" flags, with the prize draw sponsored by Dunton Motorhomes.
 

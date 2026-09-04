@@ -4,7 +4,7 @@ date: 2022-09-08T09:00:00+01:00
 draft: false
 categories: ["Community"]
 image: "photo.jpg"
-caption: ""
+caption: "Looks delicious! Cod £8.50 only I mean that is like giving it away."
 ---
 Environmental health officers visited The Golden Plaice on Cinder Lane this week after a number of customers reported feeling unwell after eating there.
 

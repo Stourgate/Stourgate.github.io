@@ -4,7 +4,7 @@ date: 2022-09-26T09:00:00+01:00
 draft: false
 categories: ["Community"]
 image: "photo.jpg"
-caption: ""
+caption: "A vile man."
 ---
 Stourgate Parish Council has voted to purchase a motorhome for civic use, to be made available for community events and to visiting officials, at a cost of £147,500.
 

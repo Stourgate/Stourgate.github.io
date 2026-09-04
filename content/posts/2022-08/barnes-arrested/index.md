@@ -4,7 +4,7 @@ date: 2022-08-29T09:00:00+01:00
 draft: false
 categories: ["Community"]
 image: "photo.jpg"
-caption: ""
+caption: "Pretty sure it wasn't him."
 ---
 Stourgate Town player Ray Barnes has been arrested in connection with the death of Steve Helman, who was found dead outside the Kurtle's superstore on Stourgate Road earlier this month.
 

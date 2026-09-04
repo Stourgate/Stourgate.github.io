@@ -4,7 +4,7 @@ date: 2022-09-12T09:00:00+01:00
 draft: false
 categories: ["Community"]
 image: "photo.jpg"
-caption: ""
+caption: "Wish she'd shutup."
 ---
 Stourgate Parish Council has called for an independent investigation and the creation of a dedicated task force to look into the death of Steve Helman, despite East Kent Police already having an active murder investigation and a suspect in custody.
 
