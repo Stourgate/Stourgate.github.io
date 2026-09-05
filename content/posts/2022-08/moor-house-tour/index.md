@@ -4,7 +4,7 @@ date: 2022-08-15T09:00:00+01:00
 draft: false
 categories: ["History", "Features"]
 image: "photo.jpg"
-caption: "Stourgate Moor House, pictured before closure."
+caption: "Moor House, would you live there if it was converted to flats starting at £350k?"
 ---
 Stourgate Moor House stood on the edge of town for just over a century before its closure in 1987. Built in 1881 as the Stourgate and District Pauper Lunatic Asylum, it was later renamed Stourgate Moor House and operated as a psychiatric hospital until funding cuts forced its closure. The building has stood empty since.
 

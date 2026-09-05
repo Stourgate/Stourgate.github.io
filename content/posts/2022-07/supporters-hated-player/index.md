@@ -8,7 +8,7 @@ caption: "The much hated Steve Helman"
 ---
 Stourgate Town Supporters Club has voted Steve Helman the most hated visiting player in the club's history, ahead of a shortlist of six other long-standing rivals.
 
-Supporters Club chairman Dennis Okafor said the result was not close. "It wasn't even close. Nobody else got a look in. Everyone remembers what he did to Ray Barnes back in '92, and that tackle's never really been forgotten round here."
+Supporters Club chairman Dennis Okafor said the result was not close. "It wasn't even close. Nobody else got a look in. Everyone remembers what he did to Ray Barnes, and that tackle's never really been forgotten round here."
 
 Mr Okafor said members had been asked to nominate and rank opposing players from the past three decades, with voting open to all paid-up members over the summer. Helman, who played for a string of Kent non-league sides during his career, topped every single ballot submitted.
 
