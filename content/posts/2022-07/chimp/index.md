@@ -9,6 +9,7 @@ caption: "Our glorious council."
 Chimpanzees are an endangered species and Stourgate Council rejected a resoluton that could not only have saved the species but also all life on earth. At least that is according to cllr. Barry Heptfleck who proposed Bill 44-A, 2022 also know as The Chimp Bill.
 
 Stourgate Town Council voted 6-1 on Tuesday to reject The Chimp Bill. The bill mandated replacing 'chimpanzee' with 'himpanzee' in all council communications. 
+
 <img src="chimp.jpg" alt="A chimp enjoying the seafront." title="A chimp enjoying the seafront." style="max-width:100%;height:auto;">
 <div class="caption">A chimp yesterday.</div>
 

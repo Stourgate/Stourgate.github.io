@@ -16,6 +16,7 @@ Clue: it is not oblong.
 **2. CRYPTIC CLUE ABOUT THE DARKNESS**
 
 Justin, singer of the Darkness made the love sign. Must be a messed up shithead wanker (7,7).
+
 <img src="darkness.jpg" alt="Heavy metal makes life go on." title="Heavy metal makes life go on." style="max-width:100%;height:auto;">
 <div class="caption">The Darkness playing Stourgate in 2008.</div>
 

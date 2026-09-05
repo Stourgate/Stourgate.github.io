@@ -14,7 +14,9 @@ The dealership, based just outside Dunton, is owned and run by Helen Saunders, w
 
 <img src="helen2.jpg" alt="What is she wearing?" title="What is she wearing? Looks like a sack." style="max-width:100%;height:auto;">
 <div class="caption">Motorhome sales lady.</div>
+
 Among the new arrivals is the Solara Trekmaster Dead Kennedys Special Edition, priced at £84,950, which features a slide. Ms Saunders said the model had already attracted interest since arriving on the forecourt.
+
 <img src="DKexterior.jpg" alt="Holiday in Cambodia in this." title="Holiday in Cambodia in this." style="max-width:100%;height:auto;">
 <div class="caption">This special edition will sell out soon.</div>
 

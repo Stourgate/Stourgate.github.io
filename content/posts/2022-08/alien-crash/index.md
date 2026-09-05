@@ -21,6 +21,7 @@ The possible alien spaceship crash would only add to this estimate, according to
 **ET phone home**
 
 Barry Fenn, who was first on the scene, described a "definite dent" in the grass and "a smell like burnt toast," and he thought he might have glimpsed an alien that looked a bit like ET. Mr Fenn said he had been walking his dog along the field boundary when he noticed the disturbance and did not approach any closer. He has since given a statement to Mr Gately for his records. He also spoke with East Kent Police, giving them a drawing of the alien he glimpsed.
+
 <img src="alien.jpg" alt="This creature might be about to invade your home." title="This creature might be about to invade your home." style="max-width:100%;height:auto;">
 <div class="caption">Mr Fenn's drawing of the alien he glimpsed.</div>
 

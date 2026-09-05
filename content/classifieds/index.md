@@ -66,6 +66,7 @@ Chickens, four, moderate egg output, one has HGV licence. (Box 1302)
 ---
 
 **SERVICES**
+
 <img src="bts.jpg" alt="We use the latest tech to get rid of bad music." title="We use the latest tech to get rid of bad music." style="max-width:100%;height:auto;">
 <div class="caption">Our expert staff can convert your eight year old's entire collection.</div>
 
@@ -114,6 +115,7 @@ Couple seeks closed minded goat. West Ronton. (Box 1505)
 ---
 
 **FRILLY DECORATIVE EDGES FOR BEDS**
+
 <img src="frillmarket.jpg" alt="Intense bidding on these twin Herbrides ruffles." title="Intense bidding on these twin Herbrides ruffles." style="max-width:100%;height:auto;">
 <div class="caption">West Ronton Valence market.</div>
 

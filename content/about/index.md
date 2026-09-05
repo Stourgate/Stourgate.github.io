@@ -7,6 +7,7 @@ draft: false
 Everything you need to know about Stourgate, the jewel of East Kent (this is just the editor's opinion and Bugle Newspapers and Towels Ltd make no representation, warranty, or guarantee, express or implied, as to the accuracy of the above, and accept no liability for any loss, damage, disappointment arising from a visit made on the strength of it).
 
 **Medieval Stourgate**
+
 <img src="medievalmap.jpg" alt="Stourgate over a 100 years ago." title="Stourgate over a 100 years ago." style="max-width:100%;height:auto;">
 <div class="caption">Medieval map of Stourgate. Text enhanced by Map Bettering AI&trade;</div>
 
@@ -37,11 +38,13 @@ There was a local group at the time, called themselves the Stourgate Legion. I'l
 
 It doesn't stop with the war, either. A defence contractor buried barrels of surplus nerve agent in the disused quarries near West Linglangton sometime in the sixties, and there's still unexplained blight on that land.
 
-<img src="wastedump.jpg" alt="They had the best intentions at heart." title="They had the best intentions at heart." style="max-width:100%;height:auto;"> <div class="caption">Burying barrels of surplus nerve agent for fun.</div>
+<img src="wastedump.jpg" alt="They had the best intentions at heart." title="They had the best intentions at heart." style="max-width:100%;height:auto;">
+<div class="caption">Burying barrels of surplus nerve agent for fun.</div>
 
 These days you've got the Stourgate Sands Caravan Park sitting right on top of the old mine drainage, and a Tesco Express. So it's not all gloom and doom.
 
 **Modern Stourgate**
+
 <img src="map.jpg" alt="Stourgate region of Kent." title="Stourgate region of Kent obviously." style="max-width:100%;height:auto;">
 <div class="caption">I wouldn't come here if I were you.</div>
 
@@ -69,10 +72,12 @@ Stourgate is officially twinned with a small town in Belgium, Brussels. Talks to
 **Coat of Arms**
 
 The town's coat of arms depicts a herring, a set of bed valances, and a Latin motto which translates roughly as "we are also reviewing this."
+
 <img src="coatofarms.jpg" alt="Stourgate coat of arms." title="Stourgate coat of arms." style="max-width:100%;height:auto;">
 <div class="caption">Stourgate's coat of arms is a bit rubbish.</div>
 
 In 1993 the town's badge was controversially rebranded with the fiancial assistance of a local business.
+
 <img src="coatofarmsRebrand.jpg" alt="Stourgate's modern coat of arms." title="Stourgate's better coat of arms. It IS better. Fuck off." style="max-width:100%;height:auto;">
 <div class="caption">Stourgate's coat of arms a much better version.</div>
 
