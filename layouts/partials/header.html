@@ -1,24 +1,97 @@
-<table class="header-table"><tr><td>
-  <h1 class="title">THE STOURGATE BUGLE</h1>
-  <div class="subtitle">"Serving Stourgate Since 1987" | Est. Circulation: 4,200</div>
-  <div class="header-counter">YOU ARE VISITOR NUMBER: <span class="counter">004217</span></div>
-</td></tr></table>
-<marquee behavior="scroll" direction="left" scrollamount="4">
-*** BREAKING NEWS FROM STOURGATE &mdash; CHECK BACK OFTEN ***
-</marquee>
+{{ $captures := where (where .Site.Pages "Section" "snapshots") "Kind" "section" }}
+{{ $captures = where $captures "Params.cutoff" "!=" nil }}
+{{ $captures = $captures.ByParam "cutoff" }}
+
+{{ $currentCapture := "" }}
+{{ if and (eq .Type "snapshots") (.Params.cutoff) }}
+  {{ $currentCapture = . }}
+{{ else if and (eq .Type "snapshots") (.Parent) (.Parent.Params.cutoff) }}
+  {{ $currentCapture = .Parent }}
+{{ else if .Date }}
+  {{ $pageDate := .Date }}
+  {{ range $captures }}
+    {{ if and (not $currentCapture) (le $pageDate (time.AsTime .Params.cutoff)) }}
+      {{ $currentCapture = . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if not $currentCapture }}
+  {{ range (where $captures "Params.live" true) }}
+    {{ $currentCapture = . }}
+  {{ end }}
+{{ end }}
+
+{{/* part-one keeps the original full retro nav (HOME to root archive, all
+     9 category buttons). Every other capture gets a simplified two-item
+     nav: HOME goes to that capture's own front page, EDITIONS goes to the
+     root archive selector. This is a deliberate split, not a bug: part-one
+     is the "paper as it originally was" baseline, later captures don't
+     carry the full category grid. */}}
+{{ $isPartOne := false }}
+{{ if $currentCapture }}
+  {{ if in $currentCapture.RelPermalink "/snapshots/part-one/" }}
+    {{ $isPartOne = true }}
+  {{ end }}
+{{ end }}
+
+{{ if not .IsHome }}
 <table class="nav-table"><tr>
+{{ if $isPartOne }}
   <td><a href="/">HOME</a></td>
-  <td><a href="/categories/council/">COUNCIL</a></td>
-  <td><a href="/categories/sport/">SPORT</a></td>
-  <td><a href="/categories/schools/">SCHOOLS</a></td>
-  <td><a href="/categories/market/">MARKET</a></td>
-  <td><a href="/categories/health/">HEALTH</a></td>
-  <td><a href="/categories/in-brief/">IN BRIEF</a></td>
-    <td><a href="/categories/whatson/">WHATS ON</a></td>
-  <td><a href="/categories/letters/">LETTERS</a></td>
-  <td><a href="/puzzles/">PUZZLES</a></td>
-  <td><a href="/classifieds/">CLASSIFIEDS</a></td>
-
-
+  {{/* "monthly" categories (puzzles/classifieds/about) run at most one story
+       per capture, so the nav shortcut checks only this capture's NEW story,
+       not the running total. Normal categories can carry several stories a
+       month, so the shortcut checks the total shown on that capture's page. */}}
+  {{ $categories := slice
+    (dict "name" "SPORT" "term" "sport")
+    (dict "name" "COMMUNITY" "term" "community")
+    (dict "name" "IN BRIEF" "term" "inbrief")
+    (dict "name" "WHATS ON" "term" "whatson")
+    (dict "name" "LETTERS" "term" "letters")
+    (dict "name" "FEATURES" "term" "features")
+    (dict "name" "PUZZLES" "term" "puzzles" "monthly" true)
+    (dict "name" "CLASSIFIEDS" "term" "classifieds" "monthly" true)
+    (dict "name" "ABOUT" "term" "about" "monthly" true)
+  }}
+  {{ range $categories }}
+    {{ $term := .term }}
+    {{ if $currentCapture }}
+      {{ $linkURL := printf "%s%s/" $currentCapture.RelPermalink $term }}
+      {{/* If this category has exactly one relevant story, skip the list
+           page and link straight to the story. Reverts to the list
+           automatically once a second qualifying story exists. */}}
+      {{ $cutoff := time.AsTime $currentCapture.Params.cutoff }}
+      {{ $termPages := index $.Site.Taxonomies.categories $term }}
+      {{ $matches := slice }}
+      {{ range $termPages }}
+        {{ $matches = $matches | append .Page }}
+      {{ end }}
+      {{ $matches = where $matches "Date" "le" $cutoff }}
+      {{ if .monthly }}
+        {{ $prevCutoff := time.AsTime $currentCapture.Params.previous_cutoff }}
+        {{ $matches = where $matches "Date" "gt" $prevCutoff }}
+      {{ end }}
+      {{ if eq (len $matches) 1 }}
+        {{ $linkURL = (index $matches 0).RelPermalink }}
+      {{ end }}
+      <td><a href="{{ $linkURL }}">{{ .name }}</a></td>
+    {{ else }}
+      <td>{{ .name }}</td>
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ if $currentCapture }}
+    <td><a href="{{ $currentCapture.RelPermalink }}">HOME</a></td>
+  {{ else }}
+    <td><a href="/">HOME</a></td>
+  {{ end }}
+  <td><a href="/">EDITIONS</a></td>
+{{ end }}
 </tr></table>
-<img class="hero-photo" src="/images/hero.jpg" alt="Stourgate seafront" style="width:100%;display:block;">
+{{ end }}
+{{ if not .IsHome }}
+<div class="hero-wrap">
+  {{ partial "sidebar.html" . }}
+  <div class="hero-photo"><img src="/images/hero.jpg" alt="Stourgate seafront" title="Stourgate seafront: ideal for swimming or body dumping."></div>
+</div>
+{{ end }}
