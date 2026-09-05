@@ -288,6 +288,20 @@ hr.stars:before {
 }
 
 @media (max-width: 480px) {
+  .nav-table, .nav-table tbody, .nav-table tr {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .nav-table td {
+    display: inline-block;
+    flex: 0 0 auto;
+    width: auto;
+    padding: 4px 6px;
+  }
+  .nav-table a {
+    font-size: 12px;
+  }
   .sidebar {
     width: 100px;
     font-size: 10px;
