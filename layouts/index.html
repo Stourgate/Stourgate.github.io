@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ .Content }}
 
-{{ $issues := where (where .Site.Pages "Section" "snapshots") "Kind" "section" }}
+{{ $issues := where (where .Site.Pages "Section" "issues") "Kind" "section" }}
 {{ $issues = where $issues "Params.cutoff" "!=" nil }}
 {{ range $issues.ByParam "cutoff" }}
   <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>

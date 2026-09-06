@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ if .Params.cutoff }}
-  {{/* This is an issue overview page, e.g. /snapshots/20220712/ */}}
+  {{/* This is an issue overview page, e.g. /issues/20220712/ */}}
   <h2 class="headline">{{ .Title }}</h2>
   {{ .Content }}
 
@@ -52,7 +52,7 @@
   </details>
   {{ end }}
 {{ else }}
-  {{/* Fallback for the auto-generated /snapshots/ index, unlinked from anywhere */}}
+  {{/* Fallback for the auto-generated /issues/ index, unlinked from anywhere */}}
   <h2 class="headline">{{ .Title }}</h2>
 {{ end }}
 {{ end }}

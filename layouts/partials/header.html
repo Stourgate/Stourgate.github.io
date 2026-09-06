@@ -1,11 +1,11 @@
-{{ $issues := where (where .Site.Pages "Section" "snapshots") "Kind" "section" }}
+{{ $issues := where (where .Site.Pages "Section" "issues") "Kind" "section" }}
 {{ $issues = where $issues "Params.cutoff" "!=" nil }}
 {{ $issues = $issues.ByParam "cutoff" }}
 
 {{ $currentIssue := "" }}
-{{ if and (eq .Type "snapshots") (.Params.cutoff) }}
+{{ if and (eq .Type "issues") (.Params.cutoff) }}
   {{ $currentIssue = . }}
-{{ else if and (eq .Type "snapshots") (.Parent) (.Parent.Params.cutoff) }}
+{{ else if and (eq .Type "issues") (.Parent) (.Parent.Params.cutoff) }}
   {{ $currentIssue = .Parent }}
 {{ else if .Date }}
   {{ $pageDate := .Date }}
