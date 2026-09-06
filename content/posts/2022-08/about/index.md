@@ -2,6 +2,8 @@
 title: "About Stourgate"
 date: 2022-08-21T10:15:00+01:00
 categories: ["About"]
+image: "map.jpg"
+caption: ""
 draft: false
 ---
 Everything you need to know about Stourgate, the jewel of East Kent (this is just the editor's opinion and Bugle Newspapers and Towels Ltd make no representation, warranty, or guarantee, express or implied, as to the accuracy of the above, and accept no liability for any loss, damage, disappointment arising from a visit made on the strength of it).
@@ -44,9 +46,6 @@ It doesn't stop with the war, either. A defence contractor buried barrels of sur
 These days you've got the Stourgate Sands Caravan Park sitting right on top of the old mine drainage, and a Tesco Express. So it's not all gloom and doom.
 
 **Modern Stourgate**
-
-<img src="map.jpg" alt="Stourgate region of Kent." title="Stourgate region of Kent obviously." style="max-width:100%;height:auto;">
-<div class="caption">I wouldn't come here if I were you.</div>
 
 Today Stourgate is home to just over twenty four thousand people, one marina, one pier, one planned bypass, and one football club.
 

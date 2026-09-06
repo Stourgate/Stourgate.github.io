@@ -1,6 +1,6 @@
 ---
 title: "Structural Survey At Moor House Uncovers Human Remains"
-date: 2022-09-19T09:00:00+01:00
+date: 2022-09-01T09:00:00+01:00
 draft: false
 categories: ["Features"]
 image: "photo.jpg"
