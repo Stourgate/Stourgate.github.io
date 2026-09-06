@@ -21,15 +21,15 @@
   {{ end }}
 {{ end }}
 
-{{/* part-one keeps the original full retro nav (HOME to root archive, all
-     9 category buttons). Every other capture gets a simplified two-item
-     nav: HOME goes to that capture's own front page, EDITIONS goes to the
-     root archive selector. This is a deliberate split, not a bug: part-one
-     is the "paper as it originally was" baseline, later captures don't
-     carry the full category grid. */}}
+{{/* The first capture (20220712) keeps the original full retro nav (HOME
+     to root archive, all 9 category buttons). Every other capture gets a
+     simplified two-item nav: HOME goes to that capture's own front page,
+     EDITIONS goes to the root archive selector. This is a deliberate
+     split, not a bug: 20220712 is the "paper as it originally was"
+     baseline, later captures don't carry the full category grid. */}}
 {{ $isPartOne := false }}
 {{ if $currentCapture }}
-  {{ if in $currentCapture.RelPermalink "/snapshots/part-one/" }}
+  {{ if in $currentCapture.RelPermalink "/snapshots/20220712/" }}
     {{ $isPartOne = true }}
   {{ end }}
 {{ end }}
