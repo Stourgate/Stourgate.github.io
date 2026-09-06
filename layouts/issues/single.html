@@ -39,9 +39,17 @@
 {{ end }}
 
 {{ if gt (len $oldPages) 0 }}
-<details class="earlier-stories">
-  <summary>Show previous stories</summary>
+  {{ $currentMonth := "" }}
   {{ range $oldPages }}
+    {{ $month := .Date.Format "January 2006" }}
+    {{ if ne $month $currentMonth }}
+      {{ if ne $currentMonth "" }}
+  </details>
+      {{ end }}
+  <details class="earlier-stories">
+    <summary>{{ $month }}</summary>
+      {{ $currentMonth = $month }}
+    {{ end }}
     <div class="article-item">
       {{ if .Params.image }}
         <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
@@ -58,6 +66,6 @@
     </div>
     <hr class="stars">
   {{ end }}
-</details>
+  </details>
 {{ end }}
 {{ end }}
