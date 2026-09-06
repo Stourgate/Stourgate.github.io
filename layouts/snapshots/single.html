@@ -1,11 +1,11 @@
 {{ define "main" }}
-{{ $capture := .Parent }}
-{{ $cutoff := time.AsTime $capture.Params.cutoff }}
-{{ $prevCutoff := time.AsTime $capture.Params.previous_cutoff }}
+{{ $issue := .Parent }}
+{{ $cutoff := time.AsTime $issue.Params.cutoff }}
+{{ $prevCutoff := time.AsTime $issue.Params.previous_cutoff }}
 {{ $term := .Params.category }}
 
 <h2 class="headline">{{ .Title }}</h2>
-<div class="byline">{{ $capture.Title }}</div>
+<div class="byline">{{ $issue.Title }}</div>
 
 {{ $termPages := index .Site.Taxonomies.categories $term }}
 {{ $pages := slice }}
@@ -17,7 +17,7 @@
 {{ $oldPages := sort (where $pages "Date" "le" $prevCutoff) "Date" "desc" }}
 
 {{ if and (eq (len $newPages) 0) (eq (len $oldPages) 0) }}
-  <p>No stories filed under {{ .Title }} for this capture yet.</p>
+  <p>No stories filed under {{ .Title }} for this issue yet.</p>
 {{ end }}
 
 {{ range $newPages }}

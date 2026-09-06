@@ -1,41 +1,41 @@
-{{ $captures := where (where .Site.Pages "Section" "snapshots") "Kind" "section" }}
-{{ $captures = where $captures "Params.cutoff" "!=" nil }}
-{{ $captures = $captures.ByParam "cutoff" }}
+{{ $issues := where (where .Site.Pages "Section" "snapshots") "Kind" "section" }}
+{{ $issues = where $issues "Params.cutoff" "!=" nil }}
+{{ $issues = $issues.ByParam "cutoff" }}
 
-{{ $currentCapture := "" }}
+{{ $currentIssue := "" }}
 {{ if and (eq .Type "snapshots") (.Params.cutoff) }}
-  {{ $currentCapture = . }}
+  {{ $currentIssue = . }}
 {{ else if and (eq .Type "snapshots") (.Parent) (.Parent.Params.cutoff) }}
-  {{ $currentCapture = .Parent }}
+  {{ $currentIssue = .Parent }}
 {{ else if .Date }}
   {{ $pageDate := .Date }}
-  {{ range $captures }}
-    {{ if and (not $currentCapture) (le $pageDate (time.AsTime .Params.cutoff)) }}
-      {{ $currentCapture = . }}
+  {{ range $issues }}
+    {{ if and (not $currentIssue) (le $pageDate (time.AsTime .Params.cutoff)) }}
+      {{ $currentIssue = . }}
     {{ end }}
   {{ end }}
 {{ end }}
-{{ if not $currentCapture }}
-  {{ range (where $captures "Params.live" true) }}
-    {{ $currentCapture = . }}
+{{ if not $currentIssue }}
+  {{ range (where $issues "Params.live" true) }}
+    {{ $currentIssue = . }}
   {{ end }}
 {{ end }}
 
-{{/* Every capture, including the first, uses the same simplified nav:
-     PREV EDITION / HOME / EDITIONS / NEXT EDITION. There used to be a
-     special case giving the first capture the original full 9-button
-     retro nav, that's been dropped, one nav path for every capture, no
-     exceptions to remember when captures get renamed or reorganised. */}}
-{{ $prevCapture := "" }}
-{{ $nextCapture := "" }}
-{{ if $currentCapture }}
-  {{ range $i, $c := $captures }}
-    {{ if eq $c.RelPermalink $currentCapture.RelPermalink }}
+{{/* Every issue, including the first, uses the same simplified nav:
+     PREV ISSUE / THIS ISSUE / ISSUES / NEXT ISSUE. There used to be a
+     special case giving the first issue the original full 9-button
+     retro nav, that's been dropped, one nav path for every issue, no
+     exceptions to remember when issues get renamed or reorganised. */}}
+{{ $prevIssue := "" }}
+{{ $nextIssue := "" }}
+{{ if $currentIssue }}
+  {{ range $i, $c := $issues }}
+    {{ if eq $c.RelPermalink $currentIssue.RelPermalink }}
       {{ if gt $i 0 }}
-        {{ $prevCapture = index $captures (sub $i 1) }}
+        {{ $prevIssue = index $issues (sub $i 1) }}
       {{ end }}
-      {{ if lt $i (sub (len $captures) 1) }}
-        {{ $nextCapture = index $captures (add $i 1) }}
+      {{ if lt $i (sub (len $issues) 1) }}
+        {{ $nextIssue = index $issues (add $i 1) }}
       {{ end }}
     {{ end }}
   {{ end }}
@@ -43,21 +43,21 @@
 
 {{ if not .IsHome }}
 <table class="nav-table"><tr>
-  {{ if $prevCapture }}
-    <td><a href="{{ $prevCapture.RelPermalink }}">PREV EDITION</a></td>
+  {{ if $prevIssue }}
+    <td><a href="{{ $prevIssue.RelPermalink }}">PREV ISSUE</a></td>
   {{ else }}
-    <td>PREV EDITION</td>
+    <td>PREV ISSUE</td>
   {{ end }}
-  {{ if $currentCapture }}
-    <td><a href="{{ $currentCapture.RelPermalink }}">HOME</a></td>
+  {{ if $currentIssue }}
+    <td><a href="{{ $currentIssue.RelPermalink }}">THIS ISSUE</a></td>
   {{ else }}
-    <td><a href="/">HOME</a></td>
+    <td><a href="/">THIS ISSUE</a></td>
   {{ end }}
-  <td><a href="/">EDITIONS</a></td>
-  {{ if $nextCapture }}
-    <td><a href="{{ $nextCapture.RelPermalink }}">NEXT EDITION</a></td>
+  <td><a href="/">ISSUES</a></td>
+  {{ if $nextIssue }}
+    <td><a href="{{ $nextIssue.RelPermalink }}">NEXT ISSUE</a></td>
   {{ else }}
-    <td>NEXT EDITION</td>
+    <td>NEXT ISSUE</td>
   {{ end }}
 </tr></table>
 {{ end }}

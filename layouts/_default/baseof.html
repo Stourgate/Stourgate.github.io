@@ -7,7 +7,7 @@
 {{ if .Description }}
 <meta name="description" content="{{ .Description }}">
 {{ else if .IsHome }}
-<meta name="description" content="Archive of The Stourgate Bugle, a defunct Kent local newspaper taken offline following the events in Stourgate. Browse recovered captures of the site.">
+<meta name="description" content="Archive of The Stourgate Bugle, a defunct Kent local newspaper taken offline following the events in Stourgate. Browse recovered issues of the site.">
 {{ else if .IsPage }}
 <meta name="description" content="{{ .Summary | plainify | truncate 155 }}">
 {{ else }}

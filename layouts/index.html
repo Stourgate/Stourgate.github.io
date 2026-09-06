@@ -1,12 +1,12 @@
 {{ define "main" }}
 {{ .Content }}
 
-{{ $captures := where (where .Site.Pages "Section" "snapshots") "Kind" "section" }}
-{{ $captures = where $captures "Params.cutoff" "!=" nil }}
-{{ range $captures.ByParam "cutoff" }}
+{{ $issues := where (where .Site.Pages "Section" "snapshots") "Kind" "section" }}
+{{ $issues = where $issues "Params.cutoff" "!=" nil }}
+{{ range $issues.ByParam "cutoff" }}
   <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   <hr class="stars">
 {{ end }}
 
-<h2 class="headline">Next capture coming soon</h2>
+<h2 class="headline">Next issue coming soon</h2>
 {{ end }}
