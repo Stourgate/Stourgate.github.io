@@ -1,6 +1,6 @@
 ---
 title: "Derby Descends Into Chaos As Dunton Player Attacks Referee"
-date: 2022-09-05T15:00:00+01:00
+date: 2022-09-01T15:00:00+01:00
 draft: false
 categories: ["Sport"]
 image: "photo.jpg"

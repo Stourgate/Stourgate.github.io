@@ -13,8 +13,8 @@
   {{ $pages = $pages | append .Page }}
 {{ end }}
 {{ $pages = where $pages "Date" "le" $cutoff }}
-{{ $newPages := sort (where $pages "Date" "gt" $prevCutoff) "Date" "desc" }}
-{{ $oldPages := sort (where $pages "Date" "le" $prevCutoff) "Date" "desc" }}
+{{ $newPages := sort (where $pages "Date" "gt" $prevCutoff) "Date" "asc" }}
+{{ $oldPages := sort (where $pages "Date" "le" $prevCutoff) "Date" "asc" }}
 
 {{ if and (eq (len $newPages) 0) (eq (len $oldPages) 0) }}
   <p>No stories filed under {{ .Title }} for this issue yet.</p>

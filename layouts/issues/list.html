@@ -11,7 +11,7 @@
   {{ $newPosts := where $posts "Date" "gt" $prevCutoff }}
   {{ $oldPosts := where $posts "Date" "le" $prevCutoff }}
 
-  {{ range $newPosts.ByDate.Reverse }}
+  {{ range $newPosts.ByDate }}
     <div class="article-item">
       {{ if .Params.image }}
         <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
@@ -32,7 +32,7 @@
   {{ if gt (len $oldPosts) 0 }}
   <details class="earlier-stories">
     <summary>Show previous stories</summary>
-    {{ range $oldPosts.ByDate.Reverse }}
+    {{ range $oldPosts.ByDate }}
       <div class="article-item">
         {{ if .Params.image }}
           <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
