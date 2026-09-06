@@ -21,20 +21,44 @@
   {{ end }}
 {{ end }}
 
-{{/* Every capture, including the first, uses the same simplified two-item
-     nav: HOME goes to that capture's own front page, EDITIONS goes to the
-     root archive selector. There used to be a special case giving the
-     first capture the original full 9-button retro nav, that's been
-     dropped, one nav path for every capture, no exceptions to remember
-     when captures get renamed or reorganised. */}}
+{{/* Every capture, including the first, uses the same simplified nav:
+     PREV EDITION / HOME / EDITIONS / NEXT EDITION. There used to be a
+     special case giving the first capture the original full 9-button
+     retro nav, that's been dropped, one nav path for every capture, no
+     exceptions to remember when captures get renamed or reorganised. */}}
+{{ $prevCapture := "" }}
+{{ $nextCapture := "" }}
+{{ if $currentCapture }}
+  {{ range $i, $c := $captures }}
+    {{ if eq $c.RelPermalink $currentCapture.RelPermalink }}
+      {{ if gt $i 0 }}
+        {{ $prevCapture = index $captures (sub $i 1) }}
+      {{ end }}
+      {{ if lt $i (sub (len $captures) 1) }}
+        {{ $nextCapture = index $captures (add $i 1) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
 {{ if not .IsHome }}
 <table class="nav-table"><tr>
+  {{ if $prevCapture }}
+    <td><a href="{{ $prevCapture.RelPermalink }}">PREV EDITION</a></td>
+  {{ else }}
+    <td>PREV EDITION</td>
+  {{ end }}
   {{ if $currentCapture }}
     <td><a href="{{ $currentCapture.RelPermalink }}">HOME</a></td>
   {{ else }}
     <td><a href="/">HOME</a></td>
   {{ end }}
   <td><a href="/">EDITIONS</a></td>
+  {{ if $nextCapture }}
+    <td><a href="{{ $nextCapture.RelPermalink }}">NEXT EDITION</a></td>
+  {{ else }}
+    <td>NEXT EDITION</td>
+  {{ end }}
 </tr></table>
 {{ end }}
 {{ if not .IsHome }}
