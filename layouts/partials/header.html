@@ -21,72 +21,20 @@
   {{ end }}
 {{ end }}
 
-{{/* The first capture (20220712) keeps the original full retro nav (HOME
-     to root archive, all 9 category buttons). Every other capture gets a
-     simplified two-item nav: HOME goes to that capture's own front page,
-     EDITIONS goes to the root archive selector. This is a deliberate
-     split, not a bug: 20220712 is the "paper as it originally was"
-     baseline, later captures don't carry the full category grid. */}}
-{{ $isPartOne := false }}
-{{ if $currentCapture }}
-  {{ if in $currentCapture.RelPermalink "/snapshots/20220712/" }}
-    {{ $isPartOne = true }}
-  {{ end }}
-{{ end }}
-
+{{/* Every capture, including the first, uses the same simplified two-item
+     nav: HOME goes to that capture's own front page, EDITIONS goes to the
+     root archive selector. There used to be a special case giving the
+     first capture the original full 9-button retro nav, that's been
+     dropped, one nav path for every capture, no exceptions to remember
+     when captures get renamed or reorganised. */}}
 {{ if not .IsHome }}
 <table class="nav-table"><tr>
-{{ if $isPartOne }}
-  <td><a href="/">HOME</a></td>
-  {{/* "monthly" categories (puzzles/classifieds/about) run at most one story
-       per capture, so the nav shortcut checks only this capture's NEW story,
-       not the running total. Normal categories can carry several stories a
-       month, so the shortcut checks the total shown on that capture's page. */}}
-  {{ $categories := slice
-    (dict "name" "SPORT" "term" "sport")
-    (dict "name" "COMMUNITY" "term" "community")
-    (dict "name" "IN BRIEF" "term" "inbrief")
-    (dict "name" "WHATS ON" "term" "whatson")
-    (dict "name" "LETTERS" "term" "letters")
-    (dict "name" "FEATURES" "term" "features")
-    (dict "name" "PUZZLES" "term" "puzzles" "monthly" true)
-    (dict "name" "CLASSIFIEDS" "term" "classifieds" "monthly" true)
-    (dict "name" "ABOUT" "term" "about" "monthly" true)
-  }}
-  {{ range $categories }}
-    {{ $term := .term }}
-    {{ if $currentCapture }}
-      {{ $linkURL := printf "%s%s/" $currentCapture.RelPermalink $term }}
-      {{/* If this category has exactly one relevant story, skip the list
-           page and link straight to the story. Reverts to the list
-           automatically once a second qualifying story exists. */}}
-      {{ $cutoff := time.AsTime $currentCapture.Params.cutoff }}
-      {{ $termPages := index $.Site.Taxonomies.categories $term }}
-      {{ $matches := slice }}
-      {{ range $termPages }}
-        {{ $matches = $matches | append .Page }}
-      {{ end }}
-      {{ $matches = where $matches "Date" "le" $cutoff }}
-      {{ if .monthly }}
-        {{ $prevCutoff := time.AsTime $currentCapture.Params.previous_cutoff }}
-        {{ $matches = where $matches "Date" "gt" $prevCutoff }}
-      {{ end }}
-      {{ if eq (len $matches) 1 }}
-        {{ $linkURL = (index $matches 0).RelPermalink }}
-      {{ end }}
-      <td><a href="{{ $linkURL }}">{{ .name }}</a></td>
-    {{ else }}
-      <td>{{ .name }}</td>
-    {{ end }}
-  {{ end }}
-{{ else }}
   {{ if $currentCapture }}
     <td><a href="{{ $currentCapture.RelPermalink }}">HOME</a></td>
   {{ else }}
     <td><a href="/">HOME</a></td>
   {{ end }}
   <td><a href="/">EDITIONS</a></td>
-{{ end }}
 </tr></table>
 {{ end }}
 {{ if not .IsHome }}
