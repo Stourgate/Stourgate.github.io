@@ -1,6 +1,6 @@
 ---
 title: "Classifieds"
-date: 2022-07-08T10:00:00+01:00
+date: 2022-08-20T10:00:00+01:00
 categories: ["Classifieds"]
 draft: false
 image: "photo.jpg"

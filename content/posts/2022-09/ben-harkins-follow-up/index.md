@@ -2,7 +2,7 @@
 title: "Reader meets evil ghost Ben Harkins"
 date: 2022-09-29T09:00:00+01:00
 draft: false
-categories: ["Community"]
+categories: ["Features"]
 image: "photo.jpg"
 caption: "Artist's impression of the encounter in the style of the Ronton School of Surrealism."
 ---
