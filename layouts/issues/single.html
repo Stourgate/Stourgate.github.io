@@ -30,7 +30,7 @@
       <div class="article-photo photo-placeholder">[ PHOTO ]</div>
     {{ end }}
     <div class="article-text">
-      <h2 class="headline"><span class="new-gif">NEW</span> <a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <h2 class="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
       <div class="byline">Posted: {{ .Date.Format "2 January 2006" }}</div>
       <p>{{ .Plain | htmlUnescape | truncate 300 }}</p>
     </div>
