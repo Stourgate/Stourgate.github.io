@@ -8,10 +8,10 @@
   {{ $prevCutoff := time.AsTime .Params.previous_cutoff }}
   {{ $posts := where .Site.RegularPages "Type" "posts" }}
   {{ $posts = where $posts "Date" "le" $cutoff }}
-  {{ $newPosts := where $posts "Date" "gt" $prevCutoff }}
-  {{ $oldPosts := sort (where $posts "Date" "le" $prevCutoff) "Date" "asc" }}
+  {{ $newPosts := sort (where $posts "Date" "gt" $prevCutoff) "Date" "desc" }}
+  {{ $oldPosts := sort (where $posts "Date" "le" $prevCutoff) "Date" "desc" }}
 
-  {{ range $newPosts.ByDate }}
+  {{ range $newPosts }}
     <div class="article-item">
       {{ if .Params.image }}
         <a class="article-photo" href="{{ .RelPermalink }}{{ .Params.image }}" target="_blank">
