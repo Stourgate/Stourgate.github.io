@@ -39,6 +39,7 @@ Jane Lightside, Nether Eckwerp.
 
 ---
 **Dear Editor,**
-A new car park would be brilliant. When me and my mates come down to Stourgate and want to do an imporomptu protest we need somewhere to change into black clothes and balaclavas. Currently we walk from town and all pile into the bogs on the seafront, 27 at a time. If we could park at the sea front we could get changed in our cars. 
+A new car park would be brilliant. When me and my mates come down to Stourgate and want to do an impromptu protest we need somewhere to change into black clothes and balaclavas. Currently we walk from town and all pile into the bogs on the seafront, 27 at a time. If we could park at the sea front we could get changed in our cars. 
+
 Keep Britain With More Car Parks,
 Colonel Ron Bigdog Beatty, Dunton
