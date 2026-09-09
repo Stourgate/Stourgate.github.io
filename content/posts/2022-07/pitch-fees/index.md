@@ -14,7 +14,7 @@ Mr Halls said pitch pricing had caused trouble before. He pointed to what long-s
 
 That investigation, traders say, is one reason the proposed fee increase has been met with suspicion rather than simple complaint. Several repeated a claim that the market has been infiltrated by government moles gathering information on cash transactions ahead of any decision on pitch fees. No trader was able to name a specific individual, though two separately pointed to a man who 'looks funny' and has attended the market most Tuesdays for the past year without ever being seen to buy anything, except once, when he bought a teapot.
 
-One trader said, 'We get famous people like Ray Coulson of the Town down here, buys his fags off the stall near the church end most weeks. Never shares his fags though. He's probably on three hundred a week, tight bastard.'
+One trader said, 'We get famous people like Ray Barnes of the Town down here, buys his fags off the stall near the church end most weeks. Never shares his fags though. He's probably on three hundred a week, tight bastard.'
 
 Traders said falling footfall was doing more damage to takings than the fee increase itself. They pointed to the number of tobacconists and gambling shops that have opened nearby in recent years, saying trade has dropped as traders spend increasing amounts of time in them rather than at their pitches. One trader said it was not unusual to find a neighbouring stall left unattended for twenty minutes or more during a quiet afternoon, and suggested this was one reason opposition to the fee increase had so far struggled to organise itself into anything more than conversation.
 
