@@ -7,4 +7,3 @@ live: true
 draft: false
 aliases: ["/snapshots/20220930/"]
 ---
-A later issue of the same site.
