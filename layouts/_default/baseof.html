@@ -2,7 +2,8 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ .Title }} - The Stourgate Bugle</title>
+<title>{{ if .IsHome }}The Stourgate Bugle{{ else }}{{ .Title }} - The Stourgate Bugle{{ end }}</title>
+<link rel="canonical" href="{{ .Permalink }}">
 <link rel="stylesheet" href="/css/style.css">
 {{ if .Description }}
 <meta name="description" content="{{ .Description }}">
@@ -13,7 +14,7 @@
 {{ else }}
 <meta name="description" content="Archive of The Stourgate Bugle, a defunct Kent local newspaper.">
 {{ end }}
-{{ if or (eq .Kind "taxonomy") (eq .Kind "term") (and (eq .Kind "section") (eq .Type "posts")) }}
+{{ if or (eq .Kind "taxonomy") (eq .Kind "term") (and (eq .Kind "section") (eq .Type "posts")) (and (eq .Type "issues") (.Params.category)) }}
 <meta name="robots" content="noindex">
 {{ end }}
 </head>
